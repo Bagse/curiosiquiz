@@ -22,7 +22,7 @@ export const useQuestionsStore = create<State>()(
         currentQuestion: 0,
 
         fetchQuestions: async (limit: number) => {
-          const res = await fetch("http://localhost:5173/data.json");
+          const res = await fetch("https://apimocha.com/apilura/quiz");
           const json = await res.json();
 
           const questions = json
