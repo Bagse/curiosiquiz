@@ -1,65 +1,10 @@
 import { Footer } from "../components/Footer";
 import { useQuestionsStore } from "../store/questions";
-import { type Question as QuestionType } from "../types";
 import { GrPrevious, GrNext } from "react-icons/gr";
+import Question from "../components/Question";
+import Logo from "../components/Logo";
 
-const getBackgroundColor = (info: QuestionType, index: number) => {
-  const { userSelectedAnswer, correctAnswer } = info;
-
-  // usuario no ha seleccionado ninguna respuesta
-  if (userSelectedAnswer == null) return "transparent";
-  // usuario ha seleccionado pero la respuesta es incorrecta
-  if (index !== correctAnswer && index !== userSelectedAnswer)
-    return "transparent";
-  // usuario ha seleccionado la respuesta correcta
-  if (index === correctAnswer) return "#06d6a0";
-  // usuario ha seleccionado la respuesta que no es correcta
-  if (index === userSelectedAnswer) return "#ef476f";
-  // ninguna de las anteriores
-  return "transparent";
-};
-
-const Question = ({ info }: { info: QuestionType }) => {
-  const selectAnswer = useQuestionsStore((state) => state.selectAnswer);
-
-  const createHandleClick = (answerIndex: number) => () => {
-    selectAnswer(info.id, answerIndex);
-  };
-
-  return (
-    <div className="outline outline-2 outline-[#00ddaa] bg-[#151515] p-4 rounded-lg flex flex-col gap-5 md:gap-3 md:w-[600px]">
-      <h2 className="text-2xl text-center">{info.question}</h2>
-
-      <div className="flex justify-center">
-        <img
-          src={info.image}
-          alt={"imagen relacionada a la pregunta"}
-          className="h-[180px] md:h-[200px] w-[570px] object-cover"
-        />
-      </div>
-
-      <div className="flex flex-col bg-[#333] divide-y-2 divide-[#444] text-center">
-        {info.answers.map((answer, index) => (
-          <div
-            key={index}
-            className="hover:bg-[#444] cursor-pointer duration-200 ease-in-out transition-all"
-          >
-            <button
-              disabled={info.userSelectedAnswer != null}
-              onClick={createHandleClick(index)}
-              style={{ backgroundColor: getBackgroundColor(info, index) }}
-              className="py-3 w-full font-mont"
-            >
-              {answer}
-            </button>
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-};
-
-export const Game = () => {
+export default function Game() {
   const questions = useQuestionsStore((state) => state.questions);
   const currentQuestion = useQuestionsStore((state) => state.currentQuestion);
   const goNextQuestion = useQuestionsStore((state) => state.goNextQuestion);
@@ -70,13 +15,15 @@ export const Game = () => {
   const questionInfo = questions[currentQuestion];
 
   return (
-    <div>
-      <div className="flex gap-3 py-5 md:py-3 items-center justify-center">
+    <div className="flex flex-col justify-center items-center gap-3 py-4">
+      <div className="fixed inset-0 z-[-2] min-h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"></div>
+      <Logo />
+      <div className="flex gap-3 py-2 items-center justify-center">
         <button onClick={goPreviousQuestion} disabled={currentQuestion === 0}>
           <GrPrevious
             size={28}
             className={`p-2 rounded-full ${
-              currentQuestion === 0 ? "bg-gray-300" : "bg-white"
+              currentQuestion === 0 ? "bg-gray-300" : "bg-neutral-500"
             }`}
           />
         </button>
@@ -90,7 +37,7 @@ export const Game = () => {
             className={`p-2 rounded-full ${
               currentQuestion >= questions.length - 1
                 ? "bg-gray-300"
-                : "bg-white"
+                : "bg-neutral-500"
             }`}
           />
         </button>
@@ -98,6 +45,18 @@ export const Game = () => {
 
       <Question info={questionInfo} />
       <Footer />
+
+      <footer className="mt-16 mb-4 text-center text-sm text-neutral-400">
+        Desarrollado por{" "}
+        <a
+          href="https://www.linkedin.com/in/brian-ar%C3%B3n-g%C3%B3mez-sequeiros/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-green-400 hover:underline font-semibold"
+        >
+          Bagse
+        </a>
+      </footer>
     </div>
   );
-};
+}

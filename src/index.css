@@ -5,5 +5,5 @@
 @tailwind utilities;
 
 :root {
-  @apply font-poppins text-white bg-[#1E1E1E];
+  @apply font-poppins text-white ;
 }

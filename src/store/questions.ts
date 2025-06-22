@@ -2,11 +2,14 @@ import { create } from "zustand";
 import { type Question } from "../types";
 import confetti from "canvas-confetti";
 import { persist } from "zustand/middleware";
+import questionsData from "../data/questions.json";
 
 interface State {
   questions: Question[];
   currentQuestion: number;
-  fetchQuestions: (limit: number) => Promise<void>;
+  currentCategory: string | null;
+  loading: boolean;
+  fetchQuestions: (limit: number, category: string) => Promise<void>;
   selectAnswer: (questionId: number, answerIndex: number) => void;
   goNextQuestion: () => void;
   goPreviousQuestion: () => void;
@@ -20,15 +23,15 @@ export const useQuestionsStore = create<State>()(
         loading: false,
         questions: [],
         currentQuestion: 0,
+        currentCategory: null,
 
-        fetchQuestions: async (limit: number) => {
-          const res = await fetch("https://apimocha.com/apilura/quiz");
-          const json = await res.json();
-
-          const questions = json
+        fetchQuestions: async (limit: number, category: string) => {
+          const shuffled = structuredClone(questionsData)
+            .filter((q) => q.category === category)
             .sort(() => Math.random() - 0.5)
             .slice(0, limit);
-          set({ questions });
+
+          set({ questions: shuffled, currentCategory: category });
         },
 
         selectAnswer: (questionId: number, answerIndex: number) => {

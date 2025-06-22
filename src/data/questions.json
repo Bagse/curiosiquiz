@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es el país más grande del mundo por superficie?",
+    "image": "https://www.mozaweb.com/es/mozaik3D/FOL/altalanos/vilag_orszagai/preview/Fovarosok.jpg",
+    "answers": ["China", "Canadá", "Estados Unidos", "Rusia"],
+    "correctAnswer": 3,
+    "category": "cultura"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué científico desarrolló la teoría de la relatividad?",
+    "image": "https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2011/09/22/32696.jpg",
+    "answers": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Galileo Galilei"
+    ],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál es el océano más grande del planeta?",
+    "image": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2678680.jpg?w=1900&h=1345",
+    "answers": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+    "correctAnswer": 3,
+    "category": "cultura"
+  },
+  {
+    "id": 4,
+    "question": "¿Quién pintó la Mona Lisa?",
+    "image": "https://content-historia.nationalgeographic.com.es/medio/2022/05/12/1449px-mona-lisa-by-leonardo-da-vinci-from-c2rmf-retouched_1063b69a_1280x720.jpg",
+    "answers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "correctAnswer": 2,
+    "category": "cultura"
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál es el elemento químico con el símbolo 'O'?",
+    "image": "https://www.educaciontrespuntocero.com/wp-content/uploads/2020/12/tabla-periodica-1200x800.jpg",
+    "answers": ["Oro", "Osmio", "Oxígeno", "Oxalato"],
+    "correctAnswer": 2,
+    "category": "cultura"
+  },
+  {
+    "id": 6,
+    "question": "¿En qué continente se encuentra Egipto?",
+    "image": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/01/6-Portada.jpg",
+    "answers": ["Asia", "África", "Europa", "Oceanía"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es el idioma más hablado en el mundo?",
+    "image": "https://francesconolivier.com/wp-content/uploads/2020/10/hablar-varios-idiomas-e1666876273203.jpg",
+    "answers": ["Inglés", "Hindi", "Español", "Chino mandarín"],
+    "correctAnswer": 3,
+    "category": "cultura"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué planeta es conocido como el 'planeta rojo'?",
+    "image": "https://www.telemundo.com/sites/nbcutelemundo/files/styles/fit-560w/public/images/article/cover/2018/06/15/planeta-marte.jpg?ramen_itok=iqwQftIcTf",
+    "answers": ["Júpiter", "Marte", "Saturno", "Venus"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 9,
+    "question": "¿Quién escribió 'Cien años de soledad'?",
+    "image": "https://elluchador.info/wp-content/uploads/2024/12/12.webp",
+    "answers": [
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez",
+      "Pablo Neruda",
+      "Julio Cortázar"
+    ],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es la capital de Australia?",
+    "image": "https://cdn.prod.website-files.com/63b7026306af943f8e01771f/659dc590c71e9281eb485ab8_custo-de-vida-australia.webp",
+    "answers": ["Sídney", "Melbourne", "Brisbane", "Canberra"],
+    "correctAnswer": 3,
+    "category": "cultura"
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el río más largo del mundo?",
+    "image": "https://renovables.blog/wp-content/uploads/2024/02/rio-nilo-1-1024x682.jpg",
+    "answers": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 12,
+    "question": "¿En qué año llegó el hombre a la Luna?",
+    "image": "https://i0.wp.com/mexicoaeroespacial.mx/wp-content/uploads/2024/07/wwFERv0E5_1256x620__1.jpg?fit=1024%2C505&ssl=1",
+    "answers": ["1965", "1969", "1972", "1959"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué instrumento mide la presión atmosférica?",
+    "image": "https://www.netatmo.com/img/c3b748a2-7dd0-4cb1-a598-f6ea92e3ac7c.jpg?withoutEnlargement=true&width=1936&height=1090&format=jpeg&background=white&fit=cover",
+    "answers": ["Termómetro", "Barómetro", "Higrómetro", "Anemómetro"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 14,
+    "question": "¿Quién es el autor de 'Don Quijote de la Mancha'?",
+    "image": "https://www.poblanerias.com/wp-content/archivos/2015/01/quijote1-1021x580.jpg",
+    "answers": [
+      "Miguel de Cervantes",
+      "Lope de Vega",
+      "Federico García Lorca",
+      "Benito Pérez Galdós"
+    ],
+    "correctAnswer": 0,
+    "category": "cultura"
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es la montaña más alta del mundo?",
+    "image": "https://content.nationalgeographic.com.es/medio/2024/12/11/monte-everest-8848-metros_00000000_5333af48_241211124915_1280x843.webp",
+    "answers": ["K2", "Kangchenjunga", "Everest", "Lhotse"],
+    "correctAnswer": 2,
+    "category": "cultura"
+  },
+  {
+    "id": 16,
+    "question": "¿En qué año se derrumbó el muro de Berlín?",
+    "image": "https://res.cloudinary.com/berlinpoche/image/upload/v1574866822/bernauerstrasse-mauerreste-berlin.jpg",
+    "answers": ["1987", "1989", "1991", "1993"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál es la galaxia más cercana a la Vía Láctea?",
+    "image": "https://skyandaluz.com/wp-content/uploads/2023/11/Imagen-conoce-la-galaxia-andromeda-y-sus-curiosidades.jpg",
+    "answers": [
+      "Triángulo",
+      "Andrómeda",
+      "Magallánica Mayor",
+      "Sagitario Dwarf"
+    ],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 18,
+    "question": "¿Qué edificio es conocido por su inclinación en Italia?",
+    "image": "https://forbes.es/wp-content/uploads/2024/02/puente-de-rialto-venecia-italia.jpg",
+    "answers": [
+      "Torre de Pisa",
+      "Torre de Milán",
+      "Torre de Venecia",
+      "Catedral de Florencia"
+    ],
+    "correctAnswer": 0,
+    "category": "cultura"
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál es el símbolo químico del oro?",
+    "image": "https://www.marfiljoyeros.com/media/blog/cache/840x560/magefan_blog/que-es-el-oro-de-ley-que-tipos-de-oro-se-utilizan-en-joyeria.jpg",
+    "answers": ["Ag", "Au", "Pt", "Fe"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 20,
+    "question": "¿Qué famoso físico es conocido por la ley de la gravedad?",
+    "image": "https://cdn.zendalibros.com/wp-content/uploads/2023/01/isaac-newton-aniversario-biografia.jpg",
+    "answers": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Niels Bohr"
+    ],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 21,
+    "question": "¿Cuál es el país con la mayor población del mundo?",
+    "image": "https://s.libertaddigital.com/2015/02/09/7.osaka.jpg",
+    "answers": ["India", "China", "Estados Unidos", "Indonesia"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 22,
+    "question": "¿Qué tipo de animal es la ballena azul?",
+    "image": "https://www.anipedia.net/images/la-ballena-azul.jpg",
+    "answers": ["Pez", "Mamífero", "Reptil", "Anfibio"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 23,
+    "question": "¿En qué país se encuentra la Torre Eiffel?",
+    "image": "https://panavision-tours.es/viajes/paris-torre-eiffel/eiffel.jpg",
+    "answers": ["Italia", "Francia", "España", "París"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 24,
+    "question": "¿Qué famoso navegante zarpó en 1492 desde España?",
+    "image": "https://s1.elespanol.com/2018/10/11/cultura/historia/leyendas-descubrimiento_de_america-espana_344727256_101007145_1706x960.jpg",
+    "answers": [
+      "Ferdinand Magellan",
+      "Cristóbal Colón",
+      "Vasco da Gama",
+      "James Cook"
+    ],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 25,
+    "question": "¿Cuál es el deporte con más jugadores en equipo en campo?",
+    "image": "https://www.shutterstock.com/image-photo/group-people-running-outdoors-active-600nw-2362033781.jpg",
+    "answers": ["Baloncesto", "Rugby", "Fútbol", "Béisbol"],
+    "correctAnswer": 2,
+    "category": "cultura"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué continente tiene más países?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_(orthographic_projection).svg/320px-Africa_(orthographic_projection).svg.png",
+    "answers": ["Europa", "África", "Asia", "América"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 27,
+    "question": "¿Cuál es el metal más ligero en la tabla periódica?",
+    "image": "https://litioargentina.com/wp-content/uploads/2024/09/Minerals_Zinc-mine-nugget-1100x472.jpg",
+    "answers": ["Sodio", "Litio", "Aluminio", "Magnesio"],
+    "correctAnswer": 1,
+    "category": "cultura"
+  },
+  {
+    "id": 28,
+    "question": "¿Qué famoso monumento se encuentra en la India?",
+    "image": "https://blog.localadventures.mx/wp-content/uploads/2023/09/5-3.png",
+    "answers": ["Torre Eiffel", "Coliseo", "Taj Mahal", "Gran Muralla China"],
+    "correctAnswer": 2,
+    "category": "cultura"
+  },
+  {
+    "id": 29,
+    "question": "¿Cuál es el océano más pequeño del mundo?",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniversal/P73LSNEWR5C6RFJZ5DT5PY6NF4.jpg",
+    "answers": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+    "correctAnswer": 2,
+    "category": "cultura"
+  },
+  {
+    "id": 30,
+    "question": "¿Qué famoso científico formuló las leyes del movimiento?",
+    "image": "https://iccsi.com.ar/wp-content/uploads/quien-era-el-hombre-inteligente-del-mundo.webp",
+    "answers": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla"
+    ],
+    "correctAnswer": 1,
+    "category": "cultura"
+  }
+]

@@ -2,21 +2,21 @@
   {
     "id": 1,
     "question": "¿Cuál es la criatura más grande del planeta?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://resizer.glanacion.com/resizer/v2/si-bien-el-calamar-gigante-es-el-invertebrado-mas-672XQFM5BJARJLXROP5JO7CEJM.png?auth=3193aa38413006434ddfdde5e130bfa0315ced83519ea3590c69d4c95979e4f6&width=880&height=586&quality=70&smart=false",
     "answers": ["Elefante", "Ballena Azul", "Dinosaurio", "Jirafa"],
     "correctAnswer": 1
   },
   {
     "id": 2,
     "question": "¿Cuántos huesos tiene un adulto humano promedio?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://f.rpp-noticias.io/2020/09/07/993219tony-starkjpg.jpg",
     "answers": ["206", "300", "100", "500"],
     "correctAnswer": 0
   },
   {
     "id": 3,
     "question": "¿Cuál es el lugar más profundo de la Tierra?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://billiken.lat/wp-content/uploads/2023/03/fosa.jpg",
     "answers": [
       "La Fosa de las Marianas",
       "El Gran Cañón",
@@ -28,119 +28,119 @@
   {
     "id": 4,
     "question": "¿Cuál es el metal más liviano en la tabla periódica?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://images.ecestaticos.com/75tq8td_Jit1UIbhX1F8iQIQfmg=/0x0:2121x1414/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb2e%2F6e8%2Feb1%2Fb2e6e8eb1f331e4c35ed463a46a3dde7.jpg",
     "answers": ["Hierro", "Aluminio", "Oro", "Litio"],
     "correctAnswer": 3
   },
   {
     "id": 5,
     "question": "¿Cuál es el animal más rápido del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://depor.com/resizer/VpbEoH53840G76GWH4LeMa2C5xs=/640x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NLNYDZ25TVDYHH7DXEPNXVVDHE.jpg",
     "answers": ["Guepardo", "Águila", "León", "Elefante"],
     "correctAnswer": 0
   },
   {
     "id": 6,
     "question": "¿Cuál fue la primera novela escrita en máquina de escribir?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://cdn.aarp.net/content/dam/aarp/money/budgeting_savings/2016/04/1140-yeager-sell-your-used-books-esp.imgcache.rev.web.1000.575.jpg",
     "answers": ["El Grande Oriente", "La Sumisa", "La Taberna", "Las Aventuras de Tom Sawyer"],
     "correctAnswer": 3
   },
   {
     "id": 7,
     "question": "¿Cuál es el planeta más grande del sistema solar?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://conceptoabc.com/wp-content/uploads/2021/07/Sistema-Solar.jpg",
     "answers": ["Tierra", "Marte", "Júpiter", "Saturno"],
     "correctAnswer": 2
   },
   {
     "id": 8,
     "question": "¿Cuál es la capital de Perú?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://content.skyscnr.com/m/6e3cd168391dd764/original/GettyImages-526212233.jpg?crop=1224px:647px&quality=100&position=attention",
     "answers": ["Lima", "Cusco", "Arequipa", "Trujillo"],
     "correctAnswer": 0
   },
   {
     "id": 9,
     "question": "¿Cuál es el animal más inteligente después de los humanos?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://wrmx00.epimg.net/radio/imagenes/2019/08/31/entretenimiento/1567276369_130074_1567277558_noticia_normal.jpg",
     "answers": ["Delfín", "Chimpancé", "Elefante", "Gorila"],
     "correctAnswer": 0
   },
   {
     "id": 10,
     "question": "¿Cuál es el metal más caro del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://i0.wp.com/tucochinito.com/wp-content/uploads/2022/03/cuales-son-los-metales-ma%CC%81s-caros-del-mundo-1.jpg",
     "answers": ["Platino", "Oro", "Rodio", "Iridio"],
     "correctAnswer": 2
   },
   {
     "id": 11,
     "question": "¿Cuál es el árbol más antiguo del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://img.travesiasdigital.com/2019/05/arbol-matusalen-03.jpg",
     "answers": ["Secuoya gigante", "Pino de Bristlecone", "Roble", "Baobab"],
     "correctAnswer": 1
   },
   {
     "id": 12,
     "question": "¿Cuál es el idioma con más hablantes nativos en el mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.unit.br/hubfs/a-web-mkt/inbound-mkt/blog-unificado/Dezembro%202021/a-origem-dos-idiomas/banner-origem-dos-idiomas-blogpost.png",
     "answers": ["Español", "Inglés", "Mandarín", "Hindi"],
     "correctAnswer": 2
   },
   {
     "id": 13,
     "question": "¿Cuál es el elemento químico más abundante en la corteza terrestre?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.elsoldemexico.com.mx/incoming/9xf7aw-nuevo-planeta-tierra.jpg/ALTERNATES/LANDSCAPE_1140/nuevo-planeta-tierra.jpg",
     "answers": ["Hierro", "Silicio", "Aluminio", "Oxígeno"],
     "correctAnswer": 3
   },
   {
     "id": 14,
     "question": "¿Cuál es el río más largo del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2016/08/03172410/FEATURED-2.jpg",
     "answers": ["Amazonas", "Nilo", "Misisipi", "Yangtsé"],
     "correctAnswer": 0
   },
   {
     "id": 15,
     "question": "¿Cuál es el continente más grande del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://cdn2.telediario.mx/uploads/media/2023/06/06/desaparecieron-cinco-continentes-de-la.jpg",
     "answers": ["África", "Asia", "América del Norte", "Europa"],
     "correctAnswer": 1
   },
   {
     "id": 16,
     "question": "¿Cuál es el instrumento musical más antiguo del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://musicopolix.com/blog/wp-content/uploads/2014/08/aristogatos-musicos.jpg",
     "answers": ["Flauta", "Tambor", "Lira", "Arpa"],
     "correctAnswer": 0
   },
   {
     "id": 17,
     "question": "¿Cuál es la montaña más alta del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.peru.travel/Contenido/General/Imagen/es/551/1.1/nevado-huascar%C3%A1n.jpg",
     "answers": ["Monte Everest", "K2", "Annapurna", "Makalu"],
     "correctAnswer": 0
   },
   {
     "id": 18,
     "question": "¿Cuál es el ave más rápida del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/angry-birds_p2rv.jpg",
     "answers": ["Águila", "Halcón peregrino", "Ave del paraíso", "Colibrí"],
     "correctAnswer": 1
   },
   {
     "id": 19,
     "question": "¿Cuál es el mineral que brilla en la oscuridad?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://astelus.com/wp-content/viajes/Las-piedras-preciosas-y-los-minerales-m%C3%A1s-preciosos-del-planeta.jpg",
     "answers": ["Diamante", "Ópalo", "Esmeralda", "Cuarzo"],
     "correctAnswer": 3
   },
   {
     "id": 20,
     "question": "¿Cuál es el animal más venenoso del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://anfibiosexoticos.com/wp-content/uploads/2020/05/hipnosapo-min.jpg",
     "answers": [
       "Serpiente de cascabel",
       "Araña de Sídney",
@@ -152,35 +152,35 @@
   {
     "id": 21,
     "question": "¿Cuál es el lugar más frío de la Tierra?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-07/8/19/enhanced/59ff39de0a44/original-242-1562614415-4.jpg",
     "answers": ["Antártida", "Siberia", "Norte de Canadá", "Monte Everest"],
     "correctAnswer": 0
   },
   {
     "id": 22,
     "question": "¿Cuál es el océano más profundo del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://e7.pngegg.com/pngimages/121/180/png-clipart-marlin-bruce-shark-darla-meme-sharks-marine-mammal-animals.png",
     "answers": ["Atlántico", "Pacífico", "Índico", "Ártico"],
     "correctAnswer": 1
   },
   {
     "id": 23,
     "question": "¿Cuál es el animal más longevo del planeta?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://estaticos-cdn.prensaiberica.es/clip/923b8b44-4f78-4119-8da5-d0727475d17d_16-9-discover-aspect-ratio_50p_0.jpg",
     "answers": ["Tortuga gigante", "Elefante", "Ballena", "Pez Koi"],
     "correctAnswer": 0
   },
   {
     "id": 24,
     "question": "¿Cuál es la sustancia más adictiva conocida por el ser humano?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/4GXCG7STJ5EXHH57YTQCX674AU.jpg",
     "answers": ["Cafeína", "Nicotina", "Azúcar", "Heroína"],
     "correctAnswer": 3
   },
   {
     "id": 25,
     "question": "¿Cuál es la montaña más joven del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://ingeoexpert.com/wp-content/uploads/2020/11/montanas-mas-altas.jpg",
     "answers": [
       "Monte Santa Helena",
       "Monte Everest",
@@ -192,56 +192,56 @@
   {
     "id": 26,
     "question": "¿Cuál es la flor nacional de Japón?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://japonismo.com/wp-content/uploads/2022/10/crisantemos-octubre-japon.jpg",
     "answers": ["Crisantemo", "Rosa", "Orquídea", "Loto"],
     "correctAnswer": 0
   },
   {
     "id": 27,
     "question": "¿Cuál es el metal más abundante en la Tierra?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.nationalgeographic.com.es/medio/2022/05/12/trabajador-en-una-fundicion-de-hierro-y-acero_17486c7f_1200x630.jpg",
     "answers": ["Aluminio", "Hierro", "Cobre", "Oro"],
     "correctAnswer": 1
   },
   {
     "id": 28,
     "question": "¿Cuál es el desierto más grande del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://concepto.de/wp-content/uploads/2018/09/desierto2-e1537800197353-800x400.jpg",
     "answers": ["Atacama", "Sahara", "Gobi", "Antártico"],
     "correctAnswer": 3
   },
   {
     "id": 29,
     "question": "¿Cuál es el material más resistente conocido?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_f360667e2cdb4d678cbd01ff575df40a.jpg",
     "answers": ["Acero", "Titanio", "Grafito", "Grafeno"],
     "correctAnswer": 0
   },
   {
     "id": 30,
     "question": "¿Cuál es el animal más veloz en el aire?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Falco_peregrinus_-_01.jpg/800px-Falco_peregrinus_-_01.jpg",
     "answers": ["Águila", "Halcón peregrino", "Ave del paraíso", "Colibrí"],
     "correctAnswer": 1
   },
   {
     "id": 31,
     "question": "¿Cuál es el lago más profundo del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://img.freepik.com/fotos-premium/imagenes-verano-lago-baikal-es-lago-rift-ubicado-sur-siberia-rusia-vista-paisaje-verano-lago-baikal-acantilado-cerca-grandma-s-bay-vista-drone_484154-1570.jpg",
     "answers": ["Lago Baikal", "Lago Titicaca", "Lago Victoria", "Lago Ness"],
     "correctAnswer": 0
   },
   {
     "id": 32,
     "question": "¿Cuál es el país con más islas en el mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://img.freepik.com/fotos-premium/vez-que-haya-experimentado-paraiso-nada-mas-sentira-lo-mismo-toma-angulo-alto-hermosas-islas-indonesia_590464-47382.jpg",
     "answers": ["Filipinas", "Indonesia", "Suecia", "Japón"],
     "correctAnswer": 2
   },
   {
     "id": 33,
     "question": "¿Cuál es el diamante más grande jamás encontrado?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.joyeriamargamira.com/img/cms/Cullinan%20diamond%20-%20joyas%20de%20la%20corona%20-%20joyas%20famosas%20-%20joyeria%20marga%20mira.png",
     "answers": [
       "Diamante Hope",
       "Diamante Cullinan",
@@ -253,28 +253,28 @@
   {
     "id": 34,
     "question": "¿Cuál es el planeta más caliente del sistema solar?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.ngenespanol.com/wp-content/uploads/2023/07/por-que-venus-es-el-planeta-mas-caliente-si-esta-mas-lejos-del-sol-que-mercurio-espacio.jpg",
     "answers": ["Venus", "Mercurio", "Marte", "Júpiter"],
     "correctAnswer": 0
   },
   {
     "id": 35,
     "question": "¿Cuál es la capital de Australia?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.intermundial.es/blog/wp-content/uploads/2017/01/visado-a-Australia-para-espa%C3%B1oles-1080x570.jpg",
     "answers": ["Melbourne", "Sídney", "Canberra", "Brisbane"],
     "correctAnswer": 2
   },
   {
     "id": 36,
     "question": "¿Cuál es la ciudad más poblada de Estados Unidos?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://redconsultingus.com/blog/wp-content/uploads/2021/01/pexels-charles-parker-5847765-1024x683-1.jpg",
     "answers": ["Nueva York", "Los Ángeles", "Chicago", "Houston"],
     "correctAnswer": 0
   },
   {
     "id": 37,
     "question": "¿Cuál es la capital de España?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/jHk4Im7UgJrlEiZMOz9E-hB5bEE=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/46AXQFD5Z5AEHHLNME22AATVZA.JPG",
     "answers": ["Barcelona ", "Valencia", "Sevilla", "Madrid"],
     "correctAnswer": 3
   },
@@ -288,42 +288,42 @@
   {
     "id": 39,
     "question": "¿En qué año comenzó la Primera Guerra Mundial?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://c.files.bbci.co.uk/146E2/production/_128928638_allquietonthewesternfront_reinerbajo.jpg",
     "answers": ["1914", "1915", "1916", "1917"],
     "correctAnswer": 0
   },
   {
     "id": 40,
     "question": "¿Cuál fue el primer país en enviar un satélite al espacio?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://humanidades.com/wp-content/uploads/2018/09/Satelite-tierra-min-e1536095571366.jpg",
     "answers": ["Estados Unidos", "Francia", "Rusia", "China"],
     "correctAnswer": 2
   },
   {
     "id": 41,
     "question": "¿En qué año se descubrió América?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://humanidades.com/wp-content/uploads/2018/10/descubrimiento-de-Am%C3%A9rica-3-e1582748979129.jpg",
     "answers": ["1493", "1495", "1492", "1494"],
     "correctAnswer": 2
   },
   {
     "id": 42,
     "question": "¿Cuál es el pájaro nacional de Estados Unidos?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d7ebf501-d835-4c15-9782-1332ea9fb086/ddrp4mj-da1a0a71-de02-4944-b600-9ff9f18e6a7e.jpg/v1/fill/w_1216,h_657,q_70,strp/mighty_eagle_screenshot__1__by_manuztur_ddrp4mj-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjkyIiwicGF0aCI6IlwvZlwvZDdlYmY1MDEtZDgzNS00YzE1LTk3ODItMTMzMmVhOWZiMDg2XC9kZHJwNG1qLWRhMWEwYTcxLWRlMDItNDk0NC1iNjAwLTlmZjlmMThlNmE3ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bS8TUSJ-5sNhSp-y9MgEzry_cuOpt2cHGPdQA4coT6Y",
     "answers": ["Águila calva", "Cuervo", "Búho", "Gorrion"],
     "correctAnswer": 0
   },
   {
     "id": 43,
     "question": "¿Cuál es el metal más raro en la Tierra?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://oroinformacion.com/wp-content/uploads/2019/04/iridio-mineral.jpg",
     "answers": ["Oro", "Platino", "Rodio", "Iridio"],
     "correctAnswer": 3
   },
   {
     "id": 44,
     "question": "¿Quién fue el primer hombre en pisar la Luna?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://img2.rtve.es/imagenes/pequeno-paso-para-hombre-gran-salto-para-humanidad/1563284202232.jpg",
     "answers": [
       "Buzz Aldrin",
       "Neil Armstrong",
@@ -335,21 +335,21 @@
   {
     "id": 45,
     "question": "¿Cuál es el animal más rápido en el agua?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://i.pinimg.com/originals/b1/d8/b1/b1d8b178e3196e8c00114ac7b231a22e.jpg",
     "answers": ["Delfín", "Tiburón marrajo", "Pez vela", "Cachalote"],
     "correctAnswer": 1
   },
   {
     "id": 46,
     "question": "¿En qué año se inició la Segunda Guerra Mundial?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/4C4F/production/_107253591_1-1.jpg",
     "answers": ["1940", "1941", "1938", "1939"],
     "correctAnswer": 3
   },
   {
     "id": 47,
     "question": "¿Cuál es el animal más venenoso de tierra?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.cultture.com/pics/2021/07/los-5-pokemon-de-tipo-venenoso-mas-peligrosos-y-los-5-mas-seguros-0.jpg",
     "answers": [
       "Rana dorada venenosa",
       "Cobra real",
@@ -361,28 +361,28 @@
   {
     "id": 48,
     "question": "¿Cuál es el animal más antiguo del mundo?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://unamglobal.unam.mx/wp-content/uploads/2023/08/megalodon001.jpg",
     "answers": ["Esponja", "Tiburón", "Pulpo", "Nautilius"],
     "correctAnswer": 0
   },
   {
     "id": 49,
     "question": "¿Cuál es el planeta más lejano del sistema solar?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.uncuyo.edu.ar/ices/cache/neptuno_608_1076.jpg",
     "answers": ["Júpiter", "Urano", "Neptuno", "Plutón"],
     "correctAnswer": 2
   },
   {
     "id": 50,
     "question": "¿Quién fue el primer emperador romano?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://s1.eestatic.com/2018/09/13/cultura/historia/curiosidades_de_la_historia-mark_zuckerberg-antigua_roma_337727974_96950418_1706x960.jpg",
     "answers": ["Julio César", "César Augusto", "Marco Antonio", "Nerón"],
     "correctAnswer": 1
   },
   {
     "id": 51,
     "question": "¿Quién fue el primer presidente de los Estados Unidos?",
-    "image": "https://ingeniosas.org/wp-content/plugins/bb-plugin/img/no-image.png",
+    "image": "https://www.telesurtv.net/__export/1576317505998/sites/telesur/img/2019/12/14/2019-12-13.jpg",
     "answers": [
       "Abraham Lincoln",
       "John F. Kennedy",
