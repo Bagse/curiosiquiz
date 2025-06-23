@@ -5,7 +5,7 @@ interface Achievement {
   title: string;
   description: string;
   unlocked: boolean;
-  shownOnce: boolean;
+  shownOnce?: boolean;
 }
 
 interface AchievementsState {
