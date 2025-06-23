@@ -1,7 +1,7 @@
 import { useQuestionsStore } from "../store/questions";
 import { type Question as QuestionType } from "../types";
 import { useNavigate } from "react-router-dom";
-
+import { useQuestionsData } from "../hooks/useQuestionsData";
 const getBackgroundColor = (info: QuestionType, index: number) => {
   const { userSelectedAnswer, correctAnswer } = info;
 
@@ -12,6 +12,7 @@ const getBackgroundColor = (info: QuestionType, index: number) => {
 };
 
 export default function Question({ info }: { info: QuestionType }) {
+  const { unanswered } = useQuestionsData();
   const navigate = useNavigate();
   const selectAnswer = useQuestionsStore((state) => state.selectAnswer);
   const currentQuestion = useQuestionsStore((state) => state.currentQuestion);
@@ -64,6 +65,9 @@ export default function Question({ info }: { info: QuestionType }) {
           ))}
         </div>
       </div>
+      <span className=" my-6 md:my-5 flex justify-center text-center flex-col">
+        <strong>{`👀 ${unanswered} preguntas sin responder`}</strong>
+      </span>
     </div>
   );
 }

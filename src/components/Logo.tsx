@@ -8,7 +8,7 @@ function Logo() {
         <h1 className={fontSizeClass}>CuriosiQuiz</h1>
       </Link>
       <img
-        src="../img/pregunta.png"
+        src="/img/pregunta.png"
         alt="imagen pregunta"
         className="bg-white rounded-full w-[50px] md:w-[55px] h-[50px] md:h-[55px]"
       />

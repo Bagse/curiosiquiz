@@ -1,4 +1,3 @@
-import { Footer } from "../components/Footer";
 import { useQuestionsStore } from "../store/questions";
 import { GrPrevious, GrNext } from "react-icons/gr";
 import Question from "../components/Question";
@@ -44,19 +43,6 @@ export default function Game() {
       </div>
 
       <Question info={questionInfo} />
-      <Footer />
-
-      <footer className="mt-16 mb-4 text-center text-sm text-neutral-400">
-        Desarrollado por{" "}
-        <a
-          href="https://www.linkedin.com/in/brian-ar%C3%B3n-g%C3%B3mez-sequeiros/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-green-400 hover:underline font-semibold"
-        >
-          Bagse
-        </a>
-      </footer>
     </div>
   );
 }

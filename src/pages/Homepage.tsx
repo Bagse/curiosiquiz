@@ -1,6 +1,7 @@
 import Logo from "../components/Logo";
 import { useQuestionsStore } from "../store/questions";
 import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
 const categories = [
   {
@@ -30,9 +31,13 @@ const categories = [
 
 function Homepage() {
   const navigate = useNavigate();
-
   const questions = useQuestionsStore((state) => state.questions);
+  const reset = useQuestionsStore((state) => state.reset);
 
+  useEffect(() => {
+    reset();
+  }, []);
+  
   return (
     <>
       <div className="fixed inset-0 z-[-2] min-h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"></div>
@@ -90,18 +95,6 @@ function Homepage() {
           </div>
         </div>
       )}
-
-      <footer className="mt-16 mb-4 text-center text-sm text-neutral-400">
-        Desarrollado por{" "}
-        <a
-          href="https://www.linkedin.com/in/brian-ar%C3%B3n-g%C3%B3mez-sequeiros/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-green-400 hover:underline font-semibold"
-        >
-          Bagse
-        </a>
-      </footer>
     </>
   );
 }
