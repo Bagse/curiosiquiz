@@ -1,35 +1,32 @@
 import { create } from "zustand";
-import { persist } from "zustand/middleware";
-import { achievementsList } from "../data/achievements";
 
 interface Achievement {
   id: string;
-  name: string;
+  title: string;
   description: string;
-  icon: string;
+  unlocked: boolean;
+  shownOnce: boolean;
 }
 
-interface AchievementState {
-  unlocked: string[];
-  all: Achievement[];
+interface AchievementsState {
+  achievements: Achievement[];
   unlock: (id: string) => void;
-  resetAchievements: () => void;
+  hasUnlocked: (id: string) => boolean;
 }
 
-export const useAchievementsStore = create<AchievementState>()(
-  persist(
-    (set, get) => ({
-      unlocked: [],
-      all: achievementsList,
-      unlock: (id: string) => {
-        if (!get().unlocked.includes(id)) {
-          set({ unlocked: [...get().unlocked, id] });
-        }
-      },
-      resetAchievements: () => set({ unlocked: [] }),
-    }),
-    {
-      name: "achievements-storage",
-    }
-  )
-);
+export const useAchievementsStore = create<AchievementsState>((set, get) => ({
+  achievements: [
+    { id: "first-quiz", title: "¡Tu primer quiz!", description: "Completaste tu primer quiz", unlocked: false, shownOnce: false, },
+    { id: "ten-correct", title: "10 aciertos", description: "Respondiste 10 preguntas correctamente", unlocked: false, shownOnce: false, },
+    { id: "flawless", title: "Sin errores", description: "Respondiste todo bien", unlocked: false, shownOnce: false, },
+    // puedes añadir más logros
+  ],
+  unlock: (id) => {
+    set((state) => ({
+      achievements: state.achievements.map((ach) =>
+        ach.id === id && !ach.unlocked ? { ...ach, unlocked: true } : ach
+      ),
+    }));
+  },
+  hasUnlocked: (id) => get().achievements.some((ach) => ach.id === id && ach.unlocked),
+}));
