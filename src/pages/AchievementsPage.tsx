@@ -18,12 +18,47 @@ export default function AchievementsPage() {
       <div className="fixed inset-0 z-[-2] min-h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]" />
       <Logo />
       <h1 className="text-3xl font-bold my-10">🏅 Mis logros</h1>
-
       {unlocked.length === 0 ? (
         <div className="flex flex-col items-center gap-10">
           <p className="text-neutral-400 text-lg">
             No has desbloqueado ningún logro aún. ¡Juega y consigue alguno!
           </p>
+          {/* Logros bloqueados */}
+          {locked.length > 0 && (
+            <section>
+              <h2 className="text-2xl font-semibold mb-6">
+                🔒 Logros por desbloquear
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {locked.map((ach) => (
+                  <div
+                    key={ach.id}
+                    className="relative flex items-center gap-4 p-4 rounded-xl border border-neutral-700 bg-[#1a1a2e]/80 shadow-md my-4 select-none pointer-events-none overflow-hidden opacity-60 hover:opacity-70 transition"
+                    style={{
+                      maskImage:
+                        "linear-gradient(to bottom, black 60%, transparent)",
+                      WebkitMaskImage:
+                        "linear-gradient(to bottom, black 60%, transparent)",
+                    }}
+                  >
+                    <img
+                      src={ach.image}
+                      alt={ach.title}
+                      className="w-20 h-20 object-contain blur-sm"
+                    />
+                    <div className="text-left blur-sm">
+                      <h3 className="text-xl font-bold text-white mb-1">
+                        {ach.title}
+                      </h3>
+                      <p className="text-sm text-neutral-300">
+                        {ach.description}
+                      </p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
           <div>
             <ButtonGoToHome title="Volver al inicio" onClick={handleGoHome} />
           </div>

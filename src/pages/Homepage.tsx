@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 const categories = [
   {
-    id: "cultura",
+    id: "cultura-general",
     title: "Cultura General",
     image: "https://images.unsplash.com/photo-1519681393784-d120267933ba",
   },
