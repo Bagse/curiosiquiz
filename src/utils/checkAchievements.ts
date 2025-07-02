@@ -56,8 +56,8 @@ export function checkAchievements() {
     }
   }
 
-  // Oscar special question (ajusta el ID real)
-  const oscarQuestionId = "cine-014";
+  // Oscar special question
+  const oscarQuestionId = "57";
   if (answeredQuestionIds.some((id) => id.includes(oscarQuestionId))) {
     unlock("oscar-for-best-riddle");
   }
