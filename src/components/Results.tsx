@@ -10,6 +10,42 @@ import { useGameProgressStore } from "../store/useGameProgressStore";
 import { checkAchievements } from "../utils/checkAchievements";
 import AchievementModal from "./AchievementModal";
 
+function checkComebackKing(category: string, correct: number, total: number) {
+  const { unlock, hasUnlocked } = useAchievementsStore.getState();
+  const key = `fail-record-${category}`;
+
+  const previouslyFailedAll = localStorage.getItem(key) === "true";
+  const isPerfect = correct === total;
+
+  if (previouslyFailedAll && isPerfect && !hasUnlocked("comeback-king")) {
+    unlock("comeback-king");
+    localStorage.removeItem(key);
+  }
+
+  if (correct === 0) {
+    localStorage.setItem(key, "true");
+  }
+}
+
+function checkAllCategoriesComplete(category: string, correct: number) {
+  const { unlock, hasUnlocked } = useAchievementsStore.getState();
+  if (!category || correct === 0) return;
+
+  const storageKey = "categories-completed";
+  const stored = localStorage.getItem(storageKey);
+  const completed = new Set<string>(stored ? JSON.parse(stored) : []);
+
+  completed.add(category);
+  localStorage.setItem(storageKey, JSON.stringify([...completed]));
+
+  const all = ["cultura-general", "cine", "deportes", "historia"];
+  const hasAll = all.every((cat) => completed.has(cat));
+
+  if (hasAll && !hasUnlocked("all-categories-complete")) {
+    unlock("all-categories-complete");
+  }
+}
+
 export const Results = () => {
   const [showModal, setShowModal] = useState(false);
   const [localNewAchievements, setLocalNewAchievements] = useState<
@@ -73,6 +109,11 @@ export const Results = () => {
       answeredIds,
       perfectAfterFail: wasPerfectAfterFail,
     });
+
+    if (currentCategory) {
+    checkComebackKing(currentCategory, correct, questions.length);
+    checkAllCategoriesComplete(currentCategory, correct);
+  }
 
     // Esperar un tick para que Zustand actualice internamente
     setTimeout(() => {
