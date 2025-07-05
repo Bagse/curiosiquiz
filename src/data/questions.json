@@ -1034,7 +1034,7 @@
   {
     "id": 111,
     "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_183-S55480%2C_Polen%2C_Deutscher_Soldat_bei_der_Zerst%C3%B6rung_einer_Br%C3%BCcke.jpg",
+    "image": "https://s2.abcstatics.com/media/historia/2019/05/29/Desembarco%20de%20Normadia%202%20@abc-kpDF--1248x698@abc.jpg",
     "answers": ["1937", "1939", "1941", "1945"],
     "correctAnswer": 1,
     "category": "historia"
@@ -1042,7 +1042,7 @@
   {
     "id": 112,
     "question": "¿Quién fue el primer emperador de Roma?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Augustus_Bevilacqua_Glyptothek_Munich_317.jpg",
+    "image": "https://latunicadeneso.wordpress.com/wp-content/uploads/2014/08/estatua-augusto.jpg",
     "answers": ["Julio César", "Augusto", "Nerón", "Tiberio"],
     "correctAnswer": 1,
     "category": "historia"
@@ -1050,7 +1050,7 @@
   {
     "id": 113,
     "question": "¿Qué civilización construyó las pirámides de Egipto?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1200px-All_Gizah_Pyramids.jpg",
     "answers": ["Mesopotámica", "Romana", "Egipcia", "Maya"],
     "correctAnswer": 2,
     "category": "historia"
@@ -1058,7 +1058,7 @@
   {
     "id": 114,
     "question": "¿Quién fue el líder del Tercer Reich durante la Segunda Guerra Mundial?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Adolf_Hitler_Headshot_1930.jpg",
+    "image": "https://images.ecestaticos.com/sBnDrQ9eu0M_cMPV6Gd7_b5N5g4=/0x17:1021x553/600x315/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8d7%2F31b%2F1aa%2F8d731b1aaa18dfc095c4cedce9ef201d.jpg",
     "answers": [
       "Adolf Hitler",
       "Benito Mussolini",
@@ -1079,7 +1079,7 @@
   {
     "id": 116,
     "question": "¿Quién fue el primer presidente de Estados Unidos?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/George_Washington_by_Gilbert_Stuart%2C_1797.jpg",
+    "image": "https://www.worldhistory.org/img/c/p/1600x900/19336.jpg",
     "answers": [
       "George Washington",
       "Abraham Lincoln",
@@ -1092,7 +1092,7 @@
   {
     "id": 117,
     "question": "¿Cuál fue la causa principal de la Primera Guerra Mundial?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Archduke_Franz_Ferdinand_of_Austria.jpg",
+    "image": "https://concepto.de/wp-content/uploads/2018/02/PGM-portada-2.jpg",
     "answers": [
       "La Revolución Rusa",
       "El asesinato del archiduque Francisco Fernando",
@@ -1105,7 +1105,7 @@
   {
     "id": 118,
     "question": "¿Qué revolución tuvo lugar en Francia en 1789?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Prise_de_la_Bastille.jpg",
+    "image": "https://mihistoriauniversal.com/wp-content/uploads/revolucion-francesa.jpg",
     "answers": [
       "Revolución Industrial",
       "Revolución Rusa",
@@ -1118,7 +1118,7 @@
   {
     "id": 119,
     "question": "¿Quién fue el líder de la independencia de la India?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Portrait_Gandhi.jpg",
+    "image": "https://mihistoriauniversal.com/wp-content/uploads/gandhi-india.jpg",
     "answers": [
       "Jawaharlal Nehru",
       "Subhas Chandra Bose",
@@ -1131,7 +1131,7 @@
   {
     "id": 120,
     "question": "¿Qué evento marcó el inicio de la Segunda Guerra Mundial?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/German_tanks_Poland_1939.jpg",
+    "image": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2018/09/26/_33dbombardmentsquadronb24liberators_63b40930.jpg",
     "answers": [
       "Ataque a Pearl Harbor",
       "Bombardeo de Londres",
@@ -1144,7 +1144,7 @@
   {
     "id": 121,
     "question": "¿Cuál fue el nombre del barco en el que viajaban los peregrinos hacia América en 1620?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mayflower_II_2007.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mayflower_in_Plymouth_Harbor%2C_by_William_Halsall.jpg",
     "answers": ["Santa María", "Mayflower", "Endeavour", "Beagle"],
     "correctAnswer": 1,
     "category": "historia"
@@ -1152,7 +1152,7 @@
   {
     "id": 122,
     "question": "¿Qué civilización fue conocida por usar jeroglíficos?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Egyptian_hieroglyphs_in_Karnak_02.jpg",
+    "image": "https://static.eldiario.es/clip/79ec44b8-f6e7-419e-b849-d74cefec2337_16-9-discover-aspect-ratio_default_0.jpg",
     "answers": ["China", "Egipto", "Roma", "Grecia"],
     "correctAnswer": 1,
     "category": "historia"
@@ -1160,7 +1160,7 @@
   {
     "id": 123,
     "question": "¿Quién fue el emperador de Francia que fue exiliado a la isla de Elba?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Napoleon_Bonaparte2.jpg",
+    "image": "https://i.redd.it/q1bmbwal23i71.jpg",
     "answers": ["Napoleón Bonaparte", "Luis XIV", "Robespierre", "Carlos X"],
     "correctAnswer": 0,
     "category": "historia"
@@ -1168,7 +1168,7 @@
   {
     "id": 124,
     "question": "¿En qué conflicto se usó por primera vez el gas mostaza como arma?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chemical_warfare_WWI.jpg",
+    "image": "https://c.files.bbci.co.uk/63BE/production/_105943552_gas-arriba.jpg",
     "answers": [
       "Guerra de Vietnam",
       "Segunda Guerra Mundial",
@@ -1181,7 +1181,7 @@
   {
     "id": 125,
     "question": "¿Cuál fue el imperio más extenso de la historia?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mongol_Empire_map.gif",
+    "image": "https://static.vecteezy.com/system/resources/previews/021/217/838/non_2x/world-map-with-country-names-free-vector.jpg",
     "answers": ["Romano", "Mongol", "Británico", "Otomano"],
     "correctAnswer": 2,
     "category": "historia"
@@ -1189,7 +1189,7 @@
   {
     "id": 126,
     "question": "¿Qué país fue dividido por el Muro de Berlín?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Berlin_Wall_1977.jpg",
+    "image": "https://ethic.es/wp-content/uploads/2019/11/muro1.jpg",
     "answers": ["Alemania", "Francia", "Rusia", "Polonia"],
     "correctAnswer": 0,
     "category": "historia"
@@ -1197,7 +1197,7 @@
   {
     "id": 127,
     "question": "¿Qué revolución industrializó gran parte del mundo en el siglo XIX?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Industrial_Revolution.jpg",
+    "image": "https://static.nationalgeographicla.com/files/styles/image_3200/public/making-steel-by-skinner-17215.png.webp?w=1600&h=900",
     "answers": [
       "Revolución Francesa",
       "Revolución Rusa",
@@ -1210,7 +1210,7 @@
   {
     "id": 128,
     "question": "¿Qué antigua ciudad fue sepultada por la erupción del Vesubio en el año 79 d.C.?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Pompeii_panorama.jpg",
+    "image": "https://mihistoriauniversal.com/wp-content/uploads/victimas-pompeya.jpg",
     "answers": ["Pompeya", "Roma", "Cartago", "Atenas"],
     "correctAnswer": 0,
     "category": "historia"
@@ -1218,7 +1218,7 @@
   {
     "id": 129,
     "question": "¿Quién fue el dictador español durante gran parte del siglo XX?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Francisco_Franco_cropped.jpg",
+    "image": "https://humanidades.com/wp-content/uploads/2018/11/francisco-franco-e1543524367511.jpg",
     "answers": [
       "Francisco Franco",
       "Felipe VI",
@@ -1231,7 +1231,7 @@
   {
     "id": 130,
     "question": "¿Cuál fue el nombre del primer satélite artificial lanzado al espacio?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sputnik_1.jpg",
+    "image": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2022/10/18/634dd2ad897a4-schema.jpeg",
     "answers": ["Apollo 11", "Sputnik 1", "Luna 2", "Explorer 1"],
     "correctAnswer": 1,
     "category": "historia"
@@ -1247,7 +1247,7 @@
   {
     "id": 132,
     "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Versailles.jpg",
+    "image": "https://concepto.de/wp-content/uploads/2019/06/tratado-de-versalles-e1560987894413.jpg",
     "answers": [
       "Tratado de París",
       "Tratado de Versalles",
@@ -1260,7 +1260,7 @@
   {
     "id": 133,
     "question": "¿Cuál fue el nombre del imperio que gobernó gran parte del Medio Oriente durante siglos?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Topkapi_Palace_-_Imperial_Gate.jpg",
+    "image": "https://academiaplay.net/wp-content/uploads/2022/01/imperio-otomano-2.jpg",
     "answers": [
       "Imperio Otomano",
       "Imperio Bizantino",
@@ -1273,7 +1273,7 @@
   {
     "id": 134,
     "question": "¿Quién escribió la 'Declaración de Independencia' de los Estados Unidos?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg",
+    "image": "https://cdn.britannica.com/98/172698-138-9CD9F1E6/overview-Thomas-Jefferson.jpg?w=800&h=450&c=crop",
     "answers": [
       "George Washington",
       "John Adams",
@@ -1286,7 +1286,7 @@
   {
     "id": 135,
     "question": "¿Cuál fue la causa principal de la Guerra Fría?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cold_War_Map_1945-1991.png",
+    "image": "https://concepto.de/wp-content/uploads/2024/02/guerra-fria-union-sovieta-estados-unidos.jpg",
     "answers": [
       "Disputas religiosas",
       "Colonialismo",
@@ -1307,7 +1307,7 @@
   {
     "id": 137,
     "question": "¿Qué líder fue asesinado en Dallas en 1963?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+    "image": "https://www.timeforkids.com/wp-content/uploads/2018/08/JFK_Hero.jpg?w=1024",
     "answers": [
       "Abraham Lincoln",
       "John F. Kennedy",
@@ -1320,7 +1320,7 @@
   {
     "id": 138,
     "question": "¿Quién fue el último zar de Rusia?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nicholas_II_of_Russia_1898.jpg",
+    "image": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/06/08183329/Dinastia-Romanov-1920-3.jpg",
     "answers": ["Nicolás II", "Pedro el Grande", "Alejandro III", "Iván IV"],
     "correctAnswer": 0,
     "category": "historia"
@@ -1328,7 +1328,7 @@
   {
     "id": 139,
     "question": "¿Qué país fue el primero en darle el derecho al voto a las mujeres?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Kate_Sheppard.jpg",
+    "image": "https://imagenes.elpais.com/resizer/v2/OVMSM5ZNGNMGTO5EHCJWRJLBIM.jpg?auth=16f5706c311188ea33dc7be5b918df137e8e0f7c55b5aa85a007053a608a6327&width=1200",
     "answers": ["Estados Unidos", "Noruega", "Nueva Zelanda", "Reino Unido"],
     "correctAnswer": 2,
     "category": "historia"
