@@ -1,0 +1,16 @@
+export const achievementHints: Record<string, string> = {
+  "first-quiz": "Completa tu primer quiz en cualquier categoría.",
+  "without-context": "Falla TODAS las preguntas de un quiz. Sin excepción.",
+  "all-categories-complete": "Completa al menos un quiz en cada una de las 4 categorías.",
+  "cg-flawless-5": "Responde 5 preguntas seguidas de Cultura General sin fallar ninguna.",
+  "cg-finished-10": "Termina un quiz completo de Cultura General (10 preguntas).",
+  "cinema-flawless-5": "Responde 5 preguntas seguidas de Cine sin fallar ninguna.",
+  "cinema-finished-10": "Termina un quiz completo de Cine (10 preguntas).",
+  "oscar-for-best-riddle": "Juega cualquier quiz de la categoría Cine.",
+  "sports-flawless-5": "Responde 5 preguntas seguidas de Deportes sin fallar ninguna.",
+  "sports-finished-10": "Termina un quiz completo de Deportes (10 preguntas).",
+  "history-flawless-5": "Responde 5 preguntas seguidas de Historia sin fallar ninguna.",
+  "history-finished-10": "Termina un quiz completo de Historia (10 preguntas).",
+  "comeback-king": "Falla todas las preguntas de un quiz, y luego complétalo sin errores.",
+  "achievement-hunter": "Desbloquea 10 logros distintos para conseguir este.",
+};

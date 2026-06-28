@@ -122,7 +122,7 @@ export const Results = () => {
   }, []);
 
   return (
-    <div className="flex flex-col gap-7 justify-center items-center text-white w-full h-screen my-5">
+    <div className="flex flex-col gap-7 justify-center items-center text-white w-full min-h-dvh my-5">
       <div className="fixed inset-0 z-[-2] min-h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"></div>
       <Logo />
       <h1 className="text-3xl md:text-4xl font-mont font-semibold">

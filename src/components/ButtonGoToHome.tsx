@@ -7,7 +7,7 @@ export default function GoToHome({ onClick, title }: GoToHomeProps) {
   return (
     <button
       onClick={onClick}
-      className="relative cursor-pointer py-4 px-8 text-center font-barlow inline-flex justify-center text-base text-white rounded-lg border-solid transition-transform duration-300 ease-in-out group outline-offset-4 focus:outline focus:outline-2 focus:outline-white focus:outline-offset-4 overflow-hidden"
+      className="relative cursor-pointer py-3 px-6 sm:py-4 sm:px-8 text-center font-barlow inline-flex justify-center text-sm sm:text-base text-white rounded-lg border-solid transition-transform duration-300 ease-in-out group outline-offset-4 focus:outline focus:outline-2 focus:outline-white focus:outline-offset-4 overflow-hidden"
     >
       <span className="relative z-20">{title}</span>
 

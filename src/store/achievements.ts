@@ -139,7 +139,7 @@ export const useAchievementsStore = create<AchievementsState>()(
           description: "Desbloqueaste 10 logros",
           unlocked: false,
           shownOnce: false,
-          image: "/logros/comeback-king.webp",
+          image: "/logros/sabiondo.webp",
         },
       ],
       unlock: (id: string) => {

@@ -20,7 +20,18 @@ export default function QuizPage() {
 
   if (loading) return <Loader />;
   if (questions.length === 0)
-    return <p className="text-center mt-10">No hay preguntas.</p>;
+    return (
+      <div className="flex flex-col items-center justify-center min-h-screen text-center px-4">
+        <div className="fixed inset-0 z-[-2] min-h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]" />
+        <p className="text-neutral-400 text-lg">No hay preguntas disponibles para esta categoría.</p>
+        <button
+          onClick={() => navigate("/")}
+          className="mt-6 text-white bg-[#7857f6] hover:bg-[#6747e0] px-6 py-3 rounded-lg transition-colors"
+        >
+          Volver al inicio
+        </button>
+      </div>
+    );
 
 
   return (

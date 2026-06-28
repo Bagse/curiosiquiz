@@ -10,7 +10,6 @@ export function checkAchievements() {
     totalQuestions,
     lastResult,
     questionsCorrectStreak,
-    answeredQuestionIds,
   } = useGameProgressStore.getState();
 
   // First quiz
@@ -57,8 +56,7 @@ export function checkAchievements() {
   }
 
   // Oscar special question
-  const oscarQuestionId = "57";
-  if (answeredQuestionIds.some((id) => id.includes(oscarQuestionId))) {
+  if (currentCategory === "cine") {
     unlock("oscar-for-best-riddle");
   }
 
