@@ -20,6 +20,10 @@ export default function Game() {
     cine: "Cine",
     deportes: "Deportes",
     historia: "Historia",
+    videojuegos: "Videojuegos",
+    musica: "Música",
+    geografia: "Geografía",
+    tecnologia: "Tecnología",
   };
 
   return (

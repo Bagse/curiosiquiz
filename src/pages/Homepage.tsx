@@ -28,6 +28,30 @@ const categories = [
     image:
       "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&q=80",
   },
+  {
+    id: "videojuegos",
+    title: "Videojuegos",
+    image:
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&q=80",
+  },
+  {
+    id: "musica",
+    title: "Música",
+    image:
+      "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+  },
+  {
+    id: "geografia",
+    title: "Geografía",
+    image:
+      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=80",
+  },
+  {
+    id: "tecnologia",
+    title: "Tecnología",
+    image:
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+  },
 ];
 
 const categoryColors = [
@@ -35,6 +59,10 @@ const categoryColors = [
   { hex: "#3b82f6" },
   { hex: "#f59e0b" },
   { hex: "#10b981" },
+  { hex: "#ef4444" },
+  { hex: "#ec4899" },
+  { hex: "#14b8a6" },
+  { hex: "#f97316" },
 ];
 
 function Homepage() {

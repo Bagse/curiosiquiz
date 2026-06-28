@@ -106,23 +106,95 @@ export const useAchievementsStore = create<AchievementsState>()(
           image: "/logros/finished.webp",
         },
         
-        {
-          id: "history-flawless-5",
-          title: "Erudito del pasado",
-          description:
-            "Completaste 5 preguntas seguidas de historia sin errores",
-          unlocked: false,
-          shownOnce: false,
-          image: "/logros/sherlof.webp",
-        },
-        {
-          id: "history-finished-10",
-          title: "Cronista oficial",
-          description: "Terminaste un quiz completo de historia",
-          unlocked: false,
-          shownOnce: false,
-          image: "/logros/romano.webp",
-        },
+          {
+            id: "history-flawless-5",
+            title: "Erudito del pasado",
+            description:
+              "Completaste 5 preguntas seguidas de historia sin errores",
+            unlocked: false,
+            shownOnce: false,
+            image: "/logros/sherlof.webp",
+          },
+          {
+            id: "history-finished-10",
+            title: "Cronista oficial",
+            description: "Terminaste un quiz completo de historia",
+            unlocked: false,
+            shownOnce: false,
+            image: "/logros/romano.webp",
+          },
+
+          {
+            id: "gaming-flawless-5",
+            title: "Jugador veterano",
+            description:
+              "Completaste 5 preguntas seguidas de videojuegos sin errores",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
+          {
+            id: "gaming-finished-10",
+            title: "Game Over",
+            description: "Terminaste un quiz completo de videojuegos",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
+
+          {
+            id: "music-flawless-5",
+            title: "Oído absoluto",
+            description:
+              "Completaste 5 preguntas seguidas de música sin errores",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
+          {
+            id: "music-finished-10",
+            title: "Rockstar",
+            description: "Terminaste un quiz completo de música",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
+
+          {
+            id: "geo-flawless-5",
+            title: "Cartógrafo experto",
+            description:
+              "Completaste 5 preguntas seguidas de geografía sin errores",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
+          {
+            id: "geo-finished-10",
+            title: "Explorador mundial",
+            description: "Terminaste un quiz completo de geografía",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
+
+          {
+            id: "tech-flawless-5",
+            title: "Mente digital",
+            description:
+              "Completaste 5 preguntas seguidas de tecnología sin errores",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
+          {
+            id: "tech-finished-10",
+            title: "Ingeniero en jefe",
+            description: "Terminaste un quiz completo de tecnología",
+            unlocked: false,
+            shownOnce: false,
+            image: "",
+          },
 
         {
           id: "comeback-king",
@@ -153,7 +225,7 @@ export const useAchievementsStore = create<AchievementsState>()(
         get().achievements.some((ach) => ach.id === id && ach.unlocked),
     }),
     {
-      name: "achievements-storage",
+      name: "achievements-storage-v2",
       partialize: (state) => ({ achievements: state.achievements }),
     }
   )

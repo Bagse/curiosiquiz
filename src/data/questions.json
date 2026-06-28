@@ -2,41 +2,51 @@
   {
     "id": 1,
     "question": "¿Cuál es el país más grande del mundo por superficie?",
-    "image": "https://www.mozaweb.com/es/mozaik3D/FOL/altalanos/vilag_orszagai/preview/Fovarosok.jpg",
-    "answers": ["China", "Canadá", "Estados Unidos", "Rusia"],
-    "correctAnswer": 3,
+    "image": "https://picsum.photos/seed/cultura-general-1/600/400",
+    "answers": [
+      "Rusia",
+      "Canadá",
+      "Estados Unidos",
+      "China"
+    ],
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 2,
     "question": "¿Qué científico desarrolló la teoría de la relatividad?",
-    "image": "https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2011/09/22/32696.jpg",
+    "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=600&q=80",
     "answers": [
       "Isaac Newton",
+      "Galileo Galilei",
       "Albert Einstein",
-      "Nikola Tesla",
-      "Galileo Galilei"
+      "Nikola Tesla"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 3,
     "question": "¿Cuál es el océano más grande del planeta?",
-    "image": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2678680.jpg?w=1900&h=1345",
-    "answers": ["Atlántico", "Índico", "Ártico", "Pacífico"],
-    "correctAnswer": 3,
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80",
+    "answers": [
+      "Pacífico",
+      "Ártico",
+      "Índico",
+      "Atlántico"
+    ],
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 4,
     "question": "¿Quién pintó la Mona Lisa?",
-    "image": "https://content-historia.nationalgeographic.com.es/medio/2022/05/12/1449px-mona-lisa-by-leonardo-da-vinci-from-c2rmf-retouched_1063b69a_1280x720.jpg",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600&q=80",
     "answers": [
       "Vincent van Gogh",
-      "Pablo Picasso",
+      "Claude Monet",
       "Leonardo da Vinci",
-      "Claude Monet"
+      "Pablo Picasso"
     ],
     "correctAnswer": 2,
     "category": "cultura-general"
@@ -44,184 +54,254 @@
   {
     "id": 5,
     "question": "¿Cuál es el elemento químico con el símbolo 'O'?",
-    "image": "https://www.educaciontrespuntocero.com/wp-content/uploads/2020/12/tabla-periodica-1200x800.jpg",
-    "answers": ["Oro", "Osmio", "Oxígeno", "Oxalato"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=80",
+    "answers": [
+      "Oro",
+      "Osmio",
+      "Oxalato",
+      "Oxígeno"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 6,
     "question": "¿En qué continente se encuentra Egipto?",
-    "image": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/01/6-Portada.jpg",
-    "answers": ["Asia", "África", "Europa", "Oceanía"],
-    "correctAnswer": 1,
+    "image": "https://picsum.photos/seed/cultura-general-2/600/400",
+    "answers": [
+      "Asia",
+      "Oceanía",
+      "Europa",
+      "África"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 7,
     "question": "¿Cuál es el idioma más hablado en el mundo?",
-    "image": "https://francesconolivier.com/wp-content/uploads/2020/10/hablar-varios-idiomas-e1666876273203.jpg",
-    "answers": ["Inglés", "Hindi", "Español", "Chino mandarín"],
-    "correctAnswer": 3,
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80",
+    "answers": [
+      "Chino mandarín",
+      "Español",
+      "Inglés",
+      "Hindi"
+    ],
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 8,
     "question": "¿Qué planeta es conocido como el 'planeta rojo'?",
-    "image": "https://www.telemundo.com/sites/nbcutelemundo/files/styles/fit-560w/public/images/article/cover/2018/06/15/planeta-marte.jpg?ramen_itok=iqwQftIcTf",
-    "answers": ["Júpiter", "Marte", "Saturno", "Venus"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?w=600&q=80",
+    "answers": [
+      "Venus",
+      "Saturno",
+      "Marte",
+      "Júpiter"
+    ],
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 9,
     "question": "¿Quién escribió 'Cien años de soledad'?",
-    "image": "https://elluchador.info/wp-content/uploads/2024/12/12.webp",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=600&q=80",
     "answers": [
-      "Mario Vargas Llosa",
-      "Gabriel García Márquez",
       "Pablo Neruda",
-      "Julio Cortázar"
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Gabriel García Márquez"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 10,
     "question": "¿Cuál es la capital de Australia?",
-    "image": "https://cdn.prod.website-files.com/63b7026306af943f8e01771f/659dc590c71e9281eb485ab8_custo-de-vida-australia.webp",
-    "answers": ["Sídney", "Melbourne", "Brisbane", "Canberra"],
+    "image": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=600&q=80",
+    "answers": [
+      "Sídney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
     "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 11,
     "question": "¿Cuál es el río más largo del mundo?",
-    "image": "https://renovables.blog/wp-content/uploads/2024/02/rio-nilo-1-1024x682.jpg",
-    "answers": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&q=80",
+    "answers": [
+      "Amazonas",
+      "Misisipi",
+      "Yangtsé",
+      "Nilo"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 12,
     "question": "¿En qué año llegó el hombre a la Luna?",
-    "image": "https://i0.wp.com/mexicoaeroespacial.mx/wp-content/uploads/2024/07/wwFERv0E5_1256x620__1.jpg?fit=1024%2C505&ssl=1",
-    "answers": ["1965", "1969", "1972", "1959"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?w=600&q=80",
+    "answers": [
+      "1959",
+      "1972",
+      "1969",
+      "1965"
+    ],
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 13,
     "question": "¿Qué instrumento mide la presión atmosférica?",
-    "image": "https://www.netatmo.com/img/c3b748a2-7dd0-4cb1-a598-f6ea92e3ac7c.jpg?withoutEnlargement=true&width=1936&height=1090&format=jpeg&background=white&fit=cover",
-    "answers": ["Termómetro", "Barómetro", "Higrómetro", "Anemómetro"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=600&q=80",
+    "answers": [
+      "Anemómetro",
+      "Termómetro",
+      "Higrómetro",
+      "Barómetro"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 14,
     "question": "¿Quién es el autor de 'Don Quijote de la Mancha'?",
-    "image": "https://www.poblanerias.com/wp-content/archivos/2015/01/quijote1-1021x580.jpg",
+    "image": "https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=600&q=80",
     "answers": [
-      "Miguel de Cervantes",
-      "Lope de Vega",
+      "Benito Pérez Galdós",
       "Federico García Lorca",
-      "Benito Pérez Galdós"
+      "Lope de Vega",
+      "Miguel de Cervantes"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 15,
     "question": "¿Cuál es la montaña más alta del mundo?",
-    "image": "https://content.nationalgeographic.com.es/medio/2024/12/11/monte-everest-8848-metros_00000000_5333af48_241211124915_1280x843.webp",
-    "answers": ["K2", "Kangchenjunga", "Everest", "Lhotse"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=600&q=80",
+    "answers": [
+      "Lhotse",
+      "Everest",
+      "K2",
+      "Kangchenjunga"
+    ],
+    "correctAnswer": 1,
     "category": "cultura-general"
   },
   {
     "id": 16,
     "question": "¿En qué año se derrumbó el muro de Berlín?",
-    "image": "https://res.cloudinary.com/berlinpoche/image/upload/v1574866822/bernauerstrasse-mauerreste-berlin.jpg",
-    "answers": ["1987", "1989", "1991", "1993"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
+    "answers": [
+      "1993",
+      "1987",
+      "1989",
+      "1991"
+    ],
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 17,
     "question": "¿Cuál es la galaxia más cercana a la Vía Láctea?",
-    "image": "https://skyandaluz.com/wp-content/uploads/2023/11/Imagen-conoce-la-galaxia-andromeda-y-sus-curiosidades.jpg",
+    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&q=80",
     "answers": [
       "Triángulo",
-      "Andrómeda",
+      "Sagitario Dwarf",
       "Magallánica Mayor",
-      "Sagitario Dwarf"
+      "Andrómeda"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 18,
     "question": "¿Qué edificio es conocido por su inclinación en Italia?",
-    "image": "https://forbes.es/wp-content/uploads/2024/02/puente-de-rialto-venecia-italia.jpg",
+    "image": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=600&q=80",
     "answers": [
-      "Torre de Pisa",
       "Torre de Milán",
-      "Torre de Venecia",
-      "Catedral de Florencia"
+      "Catedral de Florencia",
+      "Torre de Pisa",
+      "Torre de Venecia"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 19,
     "question": "¿Cuál es el símbolo químico del oro?",
-    "image": "https://www.marfiljoyeros.com/media/blog/cache/840x560/magefan_blog/que-es-el-oro-de-ley-que-tipos-de-oro-se-utilizan-en-joyeria.jpg",
-    "answers": ["Ag", "Au", "Pt", "Fe"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=600&q=80",
+    "answers": [
+      "Fe",
+      "Ag",
+      "Pt",
+      "Au"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 20,
     "question": "¿Qué famoso físico es conocido por la ley de la gravedad?",
-    "image": "https://cdn.zendalibros.com/wp-content/uploads/2023/01/isaac-newton-aniversario-biografia.jpg",
+    "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&q=80",
     "answers": [
-      "Albert Einstein",
       "Isaac Newton",
-      "Stephen Hawking",
-      "Niels Bohr"
+      "Niels Bohr",
+      "Albert Einstein",
+      "Stephen Hawking"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 21,
     "question": "¿Cuál es el país con la mayor población del mundo?",
-    "image": "https://s.libertaddigital.com/2015/02/09/7.osaka.jpg",
-    "answers": ["India", "China", "Estados Unidos", "Indonesia"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=600&q=80",
+    "answers": [
+      "China",
+      "India",
+      "Indonesia",
+      "Estados Unidos"
+    ],
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 22,
     "question": "¿Qué tipo de animal es la ballena azul?",
-    "image": "https://www.anipedia.net/images/la-ballena-azul.jpg",
-    "answers": ["Pez", "Mamífero", "Reptil", "Anfibio"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=600&q=80",
+    "answers": [
+      "Pez",
+      "Reptil",
+      "Mamífero",
+      "Anfibio"
+    ],
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 23,
     "question": "¿En qué país se encuentra la Torre Eiffel?",
-    "image": "https://panavision-tours.es/viajes/paris-torre-eiffel/eiffel.jpg",
-    "answers": ["Italia", "Francia", "España", "París"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&q=80",
+    "answers": [
+      "Francia",
+      "España",
+      "París",
+      "Italia"
+    ],
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 24,
     "question": "¿Qué famoso navegante zarpó en 1492 desde España?",
-    "image": "https://s1.elespanol.com/2018/10/11/cultura-general/historia/leyendas-descubrimiento_de_america-espana_344727256_101007145_1706x960.jpg",
+    "image": "https://picsum.photos/seed/cultura-general-3/600/400",
     "answers": [
       "Ferdinand Magellan",
       "Cristóbal Colón",
@@ -234,52 +314,77 @@
   {
     "id": 25,
     "question": "¿Cuál es el deporte con más jugadores en equipo en campo?",
-    "image": "https://www.shutterstock.com/image-photo/group-people-running-outdoors-active-600nw-2362033781.jpg",
-    "answers": ["Baloncesto", "Rugby", "Fútbol", "Béisbol"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=600&q=80",
+    "answers": [
+      "Béisbol",
+      "Fútbol",
+      "Baloncesto",
+      "Rugby"
+    ],
+    "correctAnswer": 1,
     "category": "cultura-general"
   },
   {
     "id": 26,
     "question": "¿Qué continente tiene más países?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_(orthographic_projection).svg/320px-Africa_(orthographic_projection).svg.png",
-    "answers": ["Europa", "África", "Asia", "América"],
-    "correctAnswer": 1,
+    "image": "https://picsum.photos/seed/cultura-general-4/600/400",
+    "answers": [
+      "Asia",
+      "América",
+      "Europa",
+      "África"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 27,
     "question": "¿Cuál es el metal más ligero en la tabla periódica?",
-    "image": "https://litioargentina.com/wp-content/uploads/2024/09/Minerals_Zinc-mine-nugget-1100x472.jpg",
-    "answers": ["Sodio", "Litio", "Aluminio", "Magnesio"],
-    "correctAnswer": 1,
+    "image": "https://picsum.photos/seed/cultura-general-5/600/400",
+    "answers": [
+      "Aluminio",
+      "Magnesio",
+      "Sodio",
+      "Litio"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 28,
     "question": "¿Qué famoso monumento se encuentra en la India?",
-    "image": "https://blog.localadventures.mx/wp-content/uploads/2023/09/5-3.png",
-    "answers": ["Torre Eiffel", "Coliseo", "Taj Mahal", "Gran Muralla China"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600&q=80",
+    "answers": [
+      "Taj Mahal",
+      "Gran Muralla China",
+      "Torre Eiffel",
+      "Coliseo"
+    ],
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 29,
     "question": "¿Cuál es el océano más pequeño del mundo?",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniversal/P73LSNEWR5C6RFJZ5DT5PY6NF4.jpg",
-    "answers": ["Atlántico", "Índico", "Ártico", "Pacífico"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?w=600&q=80",
+    "answers": [
+      "Ártico",
+      "Índico",
+      "Atlántico",
+      "Pacífico"
+    ],
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 30,
     "question": "¿Qué famoso científico formuló las leyes del movimiento?",
-    "image": "https://iccsi.com.ar/wp-content/uploads/quien-era-el-hombre-inteligente-del-mundo.webp",
+    "image": "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=600&q=80",
     "answers": [
-      "Galileo Galilei",
+      "Nikola Tesla",
       "Isaac Newton",
-      "Albert Einstein",
-      "Nikola Tesla"
+      "Galileo Galilei",
+      "Albert Einstein"
     ],
     "correctAnswer": 1,
     "category": "cultura-general"
@@ -287,40 +392,50 @@
   {
     "id": 31,
     "question": "¿Cuántos huesos tiene un adulto humano promedio?",
-    "image": "https://f.rpp-noticias.io/2020/09/07/993219tony-starkjpg.jpg",
-    "answers": ["206", "300", "100", "500"],
-    "correctAnswer": 0,
+    "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=80",
+    "answers": [
+      "100",
+      "206",
+      "500",
+      "300"
+    ],
+    "correctAnswer": 1,
     "category": "cultura-general"
   },
   {
     "id": 32,
     "question": "¿Cuál es el lugar más profundo de la Tierra?",
-    "image": "https://billiken.lat/wp-content/uploads/2023/03/fosa.jpg",
+    "image": "https://picsum.photos/seed/cultura-general-6/600/400",
     "answers": [
+      "El Mar Muerto",
       "La Fosa de las Marianas",
       "El Gran Cañón",
-      "El Monte Everest",
-      "El Mar Muerto"
+      "El Monte Everest"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "category": "cultura-general"
   },
   {
     "id": 33,
     "question": "¿Cuál es el animal más rápido del mundo?",
-    "image": "https://depor.com/resizer/VpbEoH53840G76GWH4LeMa2C5xs=/640x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NLNYDZ25TVDYHH7DXEPNXVVDHE.jpg",
-    "answers": ["Guepardo", "Águila", "León", "Elefante"],
-    "correctAnswer": 0,
+    "image": "https://picsum.photos/seed/cultura-general-7/600/400",
+    "answers": [
+      "Elefante",
+      "Águila",
+      "León",
+      "Guepardo"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 34,
     "question": "¿Cuál fue la primera novela escrita en máquina de escribir?",
-    "image": "https://cdn.aarp.net/content/dam/aarp/money/budgeting_savings/2016/04/1140-yeager-sell-your-used-books-esp.imgcache.rev.web.1000.575.jpg",
+    "image": "https://picsum.photos/seed/cultura-general-8/600/400",
     "answers": [
       "El Grande Oriente",
-      "La Sumisa",
       "La Taberna",
+      "La Sumisa",
       "Las Aventuras de Tom Sawyer"
     ],
     "correctAnswer": 3,
@@ -329,193 +444,271 @@
   {
     "id": 35,
     "question": "¿Cuál es el planeta más grande del sistema solar?",
-    "image": "https://conceptoabc.com/wp-content/uploads/2021/07/Sistema-Solar.jpg",
-    "answers": ["Tierra", "Marte", "Júpiter", "Saturno"],
-    "correctAnswer": 2,
+    "image": "https://picsum.photos/seed/cultura-general-9/600/400",
+    "answers": [
+      "Saturno",
+      "Tierra",
+      "Marte",
+      "Júpiter"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 36,
     "question": "¿Cuál es la capital de Perú?",
-    "image": "https://content.skyscnr.com/m/6e3cd168391dd764/original/GettyImages-526212233.jpg?crop=1224px:647px&quality=100&position=attention",
-    "answers": ["Lima", "Cusco", "Arequipa", "Trujillo"],
-    "correctAnswer": 0,
+    "image": "https://picsum.photos/seed/cultura-general-10/600/400",
+    "answers": [
+      "Arequipa",
+      "Cusco",
+      "Trujillo",
+      "Lima"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 37,
     "question": "¿Cuál es el animal más inteligente después de los humanos?",
-    "image": "https://wrmx00.epimg.net/radio/imagenes/2019/08/31/entretenimiento/1567276369_130074_1567277558_noticia_normal.jpg",
-    "answers": ["Delfín", "Chimpancé", "Elefante", "Gorila"],
-    "correctAnswer": 0,
+    "image": "https://images.unsplash.com/photo-1511688878353-3a2f5be94cd7?w=600&q=80",
+    "answers": [
+      "Gorila",
+      "Chimpancé",
+      "Delfín",
+      "Elefante"
+    ],
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 38,
     "question": "¿Cuál es el metal más caro del mundo?",
-    "image": "https://clickpetroleoegas.com.br/wp-content/uploads/2024/06/Rodio-metal-mais-caro-do-mundo.jpg",
-    "answers": ["Platino", "Oro", "Rodio", "Iridio"],
-    "correctAnswer": 2,
+    "image": "https://picsum.photos/seed/cultura-general-11/600/400",
+    "answers": [
+      "Iridio",
+      "Platino",
+      "Oro",
+      "Rodio"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 39,
     "question": "¿Cuál es el árbol más antiguo del mundo?",
-    "image": "https://img.travesiasdigital.com/2019/05/arbol-matusalen-03.jpg",
-    "answers": ["Secuoya gigante", "Pino de Bristlecone", "Roble", "Baobab"],
+    "image": "https://images.unsplash.com/photo-1542272201-b1ca555f8505?w=600&q=80",
+    "answers": [
+      "Roble",
+      "Pino de Bristlecone",
+      "Baobab",
+      "Secuoya gigante"
+    ],
     "correctAnswer": 1,
     "category": "cultura-general"
   },
   {
     "id": 40,
     "question": "¿Cuál es el instrumento musical más antiguo del mundo?",
-    "image": "https://musicopolix.com/blog/wp-content/uploads/2014/08/aristogatos-musicos.jpg",
-    "answers": ["Flauta", "Tambor", "Lira", "Arpa"],
-    "correctAnswer": 0,
+    "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=600&q=80",
+    "answers": [
+      "Tambor",
+      "Arpa",
+      "Flauta",
+      "Lira"
+    ],
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 41,
     "question": "¿Cuál es el ave más rápida del mundo?",
-    "image": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/angry-birds_p2rv.jpg",
-    "answers": ["Águila", "Halcón peregrino", "Ave del paraíso", "Colibrí"],
+    "image": "https://picsum.photos/seed/cultura-general-12/600/400",
+    "answers": [
+      "Águila",
+      "Halcón peregrino",
+      "Colibrí",
+      "Ave del paraíso"
+    ],
     "correctAnswer": 1,
     "category": "cultura-general"
   },
   {
     "id": 42,
     "question": "¿Cuál es el mineral que brilla en la oscuridad?",
-    "image": "https://arisac.com/public/images/petralux-piedra-luminiscente-arisac-1632238122.jpg",
-    "answers": ["Diamante", "Ópalo", "Esmeralda", "Cuarzo"],
+    "image": "https://picsum.photos/seed/cultura-general-13/600/400",
+    "answers": [
+      "Esmeralda",
+      "Ópalo",
+      "Diamante",
+      "Cuarzo"
+    ],
     "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 43,
     "question": "¿Cuál es el animal más venenoso del mundo?",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF_SQPxWE7SyHbg1F5NrrO6OmfPDv-srSQ1wDCfdZ2Yv61RyMe59XfBkyhaEuzuJc8VditStVQ6EP_lkYVgENWiDBOrLupLjO5O0Gaafqr9Diypf9J3m4yPkY8YA2Fl7t0ymDu3ygNeyk/w1200-h630-p-k-no-nu/hipnosapo.jpg",
+    "image": "https://picsum.photos/seed/cultura-general-14/600/400",
     "answers": [
+      "Medusa de caja",
       "Serpiente de cascabel",
-      "Araña de Sídney",
       "Pez piedra",
-      "Medusa de caja"
+      "Araña de Sídney"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 0,
     "category": "cultura-general"
   },
   {
     "id": 44,
     "question": "¿Cuál es el lugar más frío de la Tierra?",
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-07/8/19/enhanced/59ff39de0a44/original-242-1562614415-4.jpg",
-    "answers": ["Antártida", "Siberia", "Norte de Canadá", "Monte Everest"],
-    "correctAnswer": 0,
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&q=80",
+    "answers": [
+      "Monte Everest",
+      "Siberia",
+      "Norte de Canadá",
+      "Antártida"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 45,
     "question": "¿Cuál es el animal más longevo del planeta?",
-    "image": "https://estaticos-cdn.prensaiberica.es/clip/923b8b44-4f78-4119-8da5-d0727475d17d_16-9-discover-aspect-ratio_50p_0.jpg",
-    "answers": ["Tortuga gigante", "Elefante", "Ballena", "Pez Koi"],
-    "correctAnswer": 0,
-    "category": "cultura-general"
-  },
-  {
-    "id": 46,
-    "question": "¿Cuál es la sustancia más adictiva conocida por el ser humano?",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/4GXCG7STJ5EXHH57YTQCX674AU.jpg",
-    "answers": ["Cafeína", "Nicotina", "Azúcar", "Heroína"],
-    "correctAnswer": 3,
-    "category": "cultura-general"
-  },
-  {
-    "id": 47,
-    "question": "¿Cuál es la montaña más joven del mundo?",
-    "image": "https://ingeoexpert.com/wp-content/uploads/2020/11/montanas-mas-altas.jpg",
+    "image": "https://images.unsplash.com/photo-1543699565-003b8adda5fc?w=600&q=80",
     "answers": [
-      "Monte Santa Helena",
-      "Monte Everest",
-      "Monte Lō'ihi",
-      "Monte Fuji"
+      "Elefante",
+      "Pez Koi",
+      "Tortuga gigante",
+      "Ballena"
     ],
     "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
+    "id": 46,
+    "question": "¿Cuál es la sustancia más adictiva conocida por el ser humano?",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&q=80",
+    "answers": [
+      "Heroína",
+      "Cafeína",
+      "Azúcar",
+      "Nicotina"
+    ],
+    "correctAnswer": 0,
+    "category": "cultura-general"
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál es la montaña más joven del mundo?",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+    "answers": [
+      "Monte Fuji",
+      "Monte Lō'ihi",
+      "Monte Santa Helena",
+      "Monte Everest"
+    ],
+    "correctAnswer": 1,
+    "category": "cultura-general"
+  },
+  {
     "id": 48,
     "question": "¿Cuál es la flor nacional de Japón?",
-    "image": "https://japonismo.com/wp-content/uploads/2022/10/crisantemos-octubre-japon.jpg",
-    "answers": ["Crisantemo", "Rosa", "Orquídea", "Loto"],
-    "correctAnswer": 0,
+    "image": "https://picsum.photos/seed/cultura-general-15/600/400",
+    "answers": [
+      "Loto",
+      "Orquídea",
+      "Crisantemo",
+      "Rosa"
+    ],
+    "correctAnswer": 2,
     "category": "cultura-general"
   },
   {
     "id": 49,
     "question": "¿Cuál es el metal más abundante en la Tierra?",
-    "image": "https://www.nationalgeographic.com.es/medio/2022/05/12/trabajador-en-una-fundicion-de-hierro-y-acero_17486c7f_1200x630.jpg",
-    "answers": ["Aluminio", "Hierro", "Cobre", "Oro"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?w=600&q=80",
+    "answers": [
+      "Oro",
+      "Cobre",
+      "Aluminio",
+      "Hierro"
+    ],
+    "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 50,
     "question": "¿Cuál es el desierto más grande del mundo?",
-    "image": "https://concepto.de/wp-content/uploads/2018/09/desierto2-e1537800197353-800x400.jpg",
-    "answers": ["Atacama", "Sahara", "Gobi", "Antártico"],
+    "image": "https://images.unsplash.com/photo-1536242918817-db5e93c7a0e4?w=600&q=80",
+    "answers": [
+      "Atacama",
+      "Sahara",
+      "Gobi",
+      "Antártico"
+    ],
     "correctAnswer": 3,
     "category": "cultura-general"
   },
   {
     "id": 51,
     "question": "¿Quién dirigió la película 'Inception'?",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88PCbHm3hyphenhyphenvBtFJ0aOzeD1X15qJ8V-trbpsqbPAveXpZaetKdLhyZTFWqWUGkE6-HUOFs7c6tckJnHjVgBUwW_4haqdn599MEgFWVuibVrsCTPBP5Owyjza-9hky_75HzV3GjXh0kDlUt25kE6vjccWUwNhYlTQ7hNsLUsYPKh86EmqwO4DGzWKioNfM/w1200-h630-p-k-no-nu/critica-pelicula-origen-2010.jpg",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&q=80",
     "answers": [
-      "Steven Spielberg",
-      "Martin Scorsese",
+      "Quentin Tarantino",
       "Christopher Nolan",
-      "Quentin Tarantino"
+      "Martin Scorsese",
+      "Steven Spielberg"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "category": "cine"
   },
   {
     "id": 52,
     "question": "¿Qué película ganó el Oscar a la Mejor Película en 1994?",
-    "image": "https://forbes.es/wp-content/uploads/2025/03/Bolsas-Regalo-Oscars_01.jpg.webp",
+    "image": "https://images.unsplash.com/photo-1596728325488-58c87691e9af?w=600&q=80",
     "answers": [
-      "Pulp Fiction",
-      "The Shawshank Redemption",
       "Four Weddings and a Funeral",
-      "Forrest Gump"
+      "Pulp Fiction",
+      "Forrest Gump",
+      "The Shawshank Redemption"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 2,
     "category": "cine"
   },
   {
     "id": 53,
     "question": "¿Cuál es la saga cinematográfica más taquillera de la historia?",
-    "image": "https://cadenaser.com/resizer/v2/LYPC5GMJPZLUNA4HQXKIVSD3H4.jpg?auth=1be08ca3de08283930273931f1c031848840ebe1ffc07bd9f54b9547ae9457f4&quality=70&width=1200&height=900&smart=true",
-    "answers": ["Star Wars", "Harry Potter", "Avatar", "Avengers"],
+    "image": "https://images.unsplash.com/photo-1560090995-01632a28895b?w=600&q=80",
+    "answers": [
+      "Star Wars",
+      "Avatar",
+      "Harry Potter",
+      "Avengers"
+    ],
     "correctAnswer": 3,
     "category": "cine"
   },
-
   {
     "id": 54,
     "question": "¿Qué actor interpretó a Jack en Titanic?",
-    "image": "https://okdiario.com/coolthelifestyle/img/2024/03/31/titanic-hundido-gtres_easy-resize.com_-1.jpg",
-    "answers": ["Leonardo DiCaprio", "Matt Damon", "Brad Pitt", "Tom Cruise"],
+    "image": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?w=600&q=80",
+    "answers": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Matt Damon",
+      "Tom Cruise"
+    ],
     "correctAnswer": 0,
     "category": "cine"
   },
-
   {
     "id": 55,
     "question": "¿Quién dirigió la trilogía de El Señor de los Anillos?",
-    "image": "https://estaticos-cdn.prensaiberica.es/clip/da2a0071-15ae-4758-8bf2-210339d41d5d_source-aspect-ratio_default_0.jpg",
+    "image": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=600&q=80",
     "answers": [
       "Peter Jackson",
-      "Steven Spielberg",
       "James Cameron",
+      "Steven Spielberg",
       "George Lucas"
     ],
     "correctAnswer": 0,
@@ -524,10 +717,10 @@
   {
     "id": 56,
     "question": "¿Qué película popularizó la frase 'I am your father'?",
-    "image": "https://i.blogs.es/1da08b/1366_2000-9-/1366_2000.jpeg",
+    "image": "https://images.unsplash.com/photo-1596728325488-58c87691e9af?w=600&q=80",
     "answers": [
-      "Star Wars: A New Hope",
       "Star Wars: Return of the Jedi",
+      "Star Wars: A New Hope",
       "Star Wars: The Empire Strikes Back",
       "Rogue One"
     ],
@@ -537,65 +730,90 @@
   {
     "id": 57,
     "question": "¿Cuál es el nombre del payaso en 'It'?",
-    "image": "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABfCMTSwJB0CozlvAYJD_wJlhq5g2tLWtxzANWsigS1cFJjHm2LsvU3L9Qa0mDHjLnTTMNpi-N3eGO-a5iUMOWI3vn0CXH6XVFSUz.jpg?r=bc0",
-    "answers": ["Pennywise", "Joker", "Bobo", "Chupetín"],
-    "correctAnswer": 0,
-    "category": "cine"
-  },
-  {
-    "id": 58,
-    "question": "¿Qué película de animación muestra a un robot recolector de basura en el espacio?",
-    "image": "https://imagenes.20minutos.es/files/image_990_556/uploads/imagenes/2007/10/21/694925a.jpg",
-    "answers": ["Up", "WALL·E", "Big Hero 6", "Robots"],
-    "correctAnswer": 1,
-    "category": "cine"
-  },
-  {
-    "id": 59,
-    "question": "¿Quién es el villano principal en 'Avengers: Endgame'?",
-    "image": "https://www.planetagaming.com/wp-content/uploads/2019/04/Avengers-Endgame-2019-Backgrounds.jpg",
-    "answers": ["Ultron", "Loki", "Thanos", "Red Skull"],
-    "correctAnswer": 2,
-    "category": "cine"
-  },
-  {
-    "id": 60,
-    "question": "¿Qué película musical incluye la canción 'Let It Go'?",
-    "image": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/03/30150055/frozen-3.jpg",
-    "answers": ["Moana", "Tangled", "Encanto", "Frozen"],
-    "correctAnswer": 3,
-    "category": "cine"
-  },
-  {
-    "id": 61,
-    "question": "¿Cuál fue la primera película de animación hecha completamente en 3D?",
-    "image": "https://www.elespectador.com/resizer/v2/52CGLQ34SZBCBM7JGCQJUXXGKA.jpg?auth=f55997fd0006efaa28d1c5708e723b25568086a301909ec4e7d41485a2130c12&width=910&height=606&smart=true&quality=70",
-    "answers": ["Shrek", "Toy Story", "Antz", "Monsters, Inc."],
-    "correctAnswer": 1,
-    "category": "cine"
-  },
-  {
-    "id": 62,
-    "question": "¿Qué actor interpretó al Joker en 'The Dark Knight'?",
-    "image": "https://i.redd.it/tdk-or-the-batman-v0-xdzlkrmx1see1.jpg?width=1920&format=pjpg&auto=webp&s=ecf9a539d9de947dcd0043a8892c0c75330dcfab",
+    "image": "https://picsum.photos/seed/cine-1/600/400",
     "answers": [
-      "Joaquin Phoenix",
-      "Jared Leto",
-      "Jack Nicholson",
-      "Heath Ledger"
+      "Joker",
+      "Chupetín",
+      "Bobo",
+      "Pennywise"
     ],
     "correctAnswer": 3,
     "category": "cine"
   },
   {
+    "id": 58,
+    "question": "¿Qué película de animación muestra a un robot recolector de basura en el espacio?",
+    "image": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=600&q=80",
+    "answers": [
+      "Robots",
+      "Big Hero 6",
+      "Up",
+      "WALL·E"
+    ],
+    "correctAnswer": 3,
+    "category": "cine"
+  },
+  {
+    "id": 59,
+    "question": "¿Quién es el villano principal en 'Avengers: Endgame'?",
+    "image": "https://picsum.photos/seed/cine-2/600/400",
+    "answers": [
+      "Loki",
+      "Ultron",
+      "Red Skull",
+      "Thanos"
+    ],
+    "correctAnswer": 3,
+    "category": "cine"
+  },
+  {
+    "id": 60,
+    "question": "¿Qué película musical incluye la canción 'Let It Go'?",
+    "image": "https://picsum.photos/seed/cine-3/600/400",
+    "answers": [
+      "Frozen",
+      "Encanto",
+      "Tangled",
+      "Moana"
+    ],
+    "correctAnswer": 0,
+    "category": "cine"
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál fue la primera película de animación hecha completamente en 3D?",
+    "image": "https://images.unsplash.com/photo-1535016120720-40c646be5580?w=600&q=80",
+    "answers": [
+      "Shrek",
+      "Antz",
+      "Toy Story",
+      "Monsters, Inc."
+    ],
+    "correctAnswer": 2,
+    "category": "cine"
+  },
+  {
+    "id": 62,
+    "question": "¿Qué actor interpretó al Joker en 'The Dark Knight'?",
+    "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?w=600&q=80",
+    "answers": [
+      "Jared Leto",
+      "Jack Nicholson",
+      "Heath Ledger",
+      "Joaquin Phoenix"
+    ],
+    "correctAnswer": 2,
+    "category": "cine"
+  },
+  {
     "id": 63,
     "question": "¿Qué película protagonizada por Tom Hanks se desarrolla casi completamente en una isla desierta?",
-    "image": "https://media.dialektika.org/dialektika/2023/06/Wilson-ball-from-Cast-Away.jpg",
+    "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=600&q=80",
     "answers": [
       "Náufrago",
+      "Capitán Phillips",
       "Forrest Gump",
-      "El Código Da Vinci",
-      "Capitán Phillips"
+      "El Código Da Vinci"
     ],
     "correctAnswer": 0,
     "category": "cine"
@@ -603,20 +821,25 @@
   {
     "id": 64,
     "question": "¿En qué año se estrenó la primera película de Harry Potter?",
-    "image": "https://alfabetajuega.com/hero/2025/05/f53470b87c3f1496919bf02eb5f6faf50e0636c4461ea714fc747d29e57e55e2._sx1080_fmjpg_.1748687869.8855.jpg?width=768&aspect_ratio=16:9&format=nowebp",
-    "answers": ["1999", "2005", "2003", "2001"],
-    "correctAnswer": 3,
+    "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=600&q=80",
+    "answers": [
+      "2003",
+      "2001",
+      "1999",
+      "2005"
+    ],
+    "correctAnswer": 1,
     "category": "cine"
   },
   {
     "id": 65,
     "question": "¿Cuál es el nombre del actor que interpretó a Deadpool?",
-    "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/07/deadpool-and-wolverine-deadpool-variants.jpg",
+    "image": "https://picsum.photos/seed/cine-4/600/400",
     "answers": [
       "Ryan Reynolds",
       "Chris Hemsworth",
-      "Robert Downey Jr.",
-      "Jake Gyllenhaal"
+      "Jake Gyllenhaal",
+      "Robert Downey Jr."
     ],
     "correctAnswer": 0,
     "category": "cine"
@@ -624,144 +847,194 @@
   {
     "id": 66,
     "question": "¿Qué actriz interpretó a Katniss Everdeen en 'Los Juegos del Hambre'?",
-    "image": "https://www.laprensa.hn/binrepository/1152x648/0c0/0d0/none/11004/TOVM/precuela-de-los-juegos-del-hambre-la_7698435_20240607141639.jpg",
+    "image": "https://images.unsplash.com/photo-1536859355448-76f92ebdc33d?w=600&q=80",
     "answers": [
-      "Emma Watson",
       "Scarlett Johansson",
       "Jennifer Lawrence",
-      "Natalie Portman"
+      "Natalie Portman",
+      "Emma Watson"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "category": "cine"
   },
   {
     "id": 67,
     "question": "¿Quién interpretó a Neo en la saga Matrix?",
-    "image": "https://static.euronews.com/articles/stories/08/35/93/32/1440x810_cmsv2_c7416dac-8a99-57b8-b728-b28d69040539-8359332.jpg",
-    "answers": ["Brad Pitt", "Keanu Reeves", "Johnny Depp", "Matt Damon"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
+    "answers": [
+      "Matt Damon",
+      "Johnny Depp",
+      "Brad Pitt",
+      "Keanu Reeves"
+    ],
+    "correctAnswer": 3,
     "category": "cine"
   },
   {
     "id": 68,
     "question": "¿En qué ciudad transcurre la mayor parte de 'El Padrino'?",
-    "image": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABZ610NbtIDI112g5qv9gSfCmzGXO_Pe131kRNJV_72IUU746c-BZBEQJOsEV6X_fZys5EEaCbIeDvhN8JgjzYUDLFQyFQKxEW3I1.jpg?r=178",
-    "answers": ["Chicago", "Las Vegas", "Nueva York", "Boston"],
-    "correctAnswer": 2,
-    "category": "cine"
-  },
-  {
-    "id": 69,
-    "question": "¿Qué película animada gira en torno a emociones como personajes?",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/4XIYN243XVDJJJWAOHUWBBTZM4.jpg",
-    "answers": ["Soul", "Coco", "Intensamente", "Up"],
-    "correctAnswer": 2,
-    "category": "cine"
-  },
-  {
-    "id": 70,
-    "question": "¿Qué actor dio vida a Tony Stark en el Universo Cinematográfico de Marvel?",
-    "image": "https://i.ytimg.com/vi/BU3EiFDaokw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFG0ZjoF9bm65ud_1UvG1MdPpV-g",
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=600&q=80",
     "answers": [
-      "Robert Downey Jr.",
-      "Mark Ruffalo",
-      "Chris Evans",
-      "Tom Holland"
+      "Nueva York",
+      "Chicago",
+      "Boston",
+      "Las Vegas"
     ],
     "correctAnswer": 0,
     "category": "cine"
   },
   {
+    "id": 69,
+    "question": "¿Qué película animada gira en torno a emociones como personajes?",
+    "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+    "answers": [
+      "Intensamente",
+      "Up",
+      "Coco",
+      "Soul"
+    ],
+    "correctAnswer": 0,
+    "category": "cine"
+  },
+  {
+    "id": 70,
+    "question": "¿Qué actor dio vida a Tony Stark en el Universo Cinematográfico de Marvel?",
+    "image": "https://picsum.photos/seed/cine-5/600/400",
+    "answers": [
+      "Tom Holland",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Robert Downey Jr."
+    ],
+    "correctAnswer": 3,
+    "category": "cine"
+  },
+  {
     "id": 71,
     "question": "¿Qué película de Pixar trata sobre un chef ratón?",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguVM3FCToE6YB6OZmG7p-8Nu4KsvFRPxFRBkiD2-yzNNZnNKWOfOd4v0MUoaaeT9h5qG5kixnNe5gSumj-pSDvX-w4S4kAXdPF0dMRL2k6R0C-6BV44OPXge8dfVafxaoqjrB9lRDTdm43iq0BBT5j0A5pzO8PuGmxeFoj9Kd6F_tnCzUV1GS4I8rqYF-4/s16000/Ratatouille-717680274-large.jpg",
-    "answers": ["Up", "Bolt", "Cars", "Ratatouille"],
+    "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600&q=80",
+    "answers": [
+      "Cars",
+      "Bolt",
+      "Up",
+      "Ratatouille"
+    ],
     "correctAnswer": 3,
     "category": "cine"
   },
   {
     "id": 72,
     "question": "¿Qué película cuenta la historia de un tiburón gigante que aterroriza una playa?",
-    "image": "https://images.theconversation.com/files/674848/original/file-20250617-56-dkpuu9.jpg?ixlib=rb-4.1.0&rect=0%2C3%2C3299%2C1856&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
-    "answers": ["Deep Blue Sea", "Jaws", "Sharknado", "The Meg"],
-    "correctAnswer": 1,
-    "category": "cine"
-  },
-  {
-    "id": 73,
-    "question": "¿Quién dirigió 'Pulp Fiction'?",
-    "image": "https://www.cineciutat.org/storage/app/uploads/public/613/3bd/6a3/thumb_1904_1920_1080_0_0_crop.jpg",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
     "answers": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Quentin Tarantino",
-      "Francis Ford Coppola"
+      "The Meg",
+      "Sharknado",
+      "Jaws",
+      "Deep Blue Sea"
     ],
     "correctAnswer": 2,
     "category": "cine"
   },
   {
+    "id": 73,
+    "question": "¿Quién dirigió 'Pulp Fiction'?",
+    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=80",
+    "answers": [
+      "Francis Ford Coppola",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Quentin Tarantino"
+    ],
+    "correctAnswer": 3,
+    "category": "cine"
+  },
+  {
     "id": 74,
     "question": "¿Qué película de Christopher Nolan trata sobre viajes en el tiempo y una organización llamada Tenet?",
-    "image": "https://cineciutat.org/storage/app/uploads/public/60a/391/9ec/60a3919ecc81c430324123.jpg",
-    "answers": ["Inception", "Interstellar", "Tenet", "Memento"],
-    "correctAnswer": 2,
+    "image": "https://picsum.photos/seed/cine-6/600/400",
+    "answers": [
+      "Tenet",
+      "Interstellar",
+      "Memento",
+      "Inception"
+    ],
+    "correctAnswer": 0,
     "category": "cine"
   },
   {
     "id": 75,
     "question": "¿Cuál es la película animada de Disney basada en una princesa escocesa?",
-    "image": "https://lumiere-a.akamaihd.net/v1/images/nl_disney-plus_c169_brave_r_398d40f3.jpeg?region=0,0,876,492",
-    "answers": ["Valiente", "Frozen", "Enredados", "Raya y el último dragón"],
-    "correctAnswer": 0,
+    "image": "https://picsum.photos/seed/cine-7/600/400",
+    "answers": [
+      "Enredados",
+      "Frozen",
+      "Valiente",
+      "Raya y el último dragón"
+    ],
+    "correctAnswer": 2,
     "category": "cine"
   },
   {
     "id": 76,
     "question": "¿Cuál es el nombre del planeta natal de los Na'vi en 'Avatar'?",
-    "image": "https://i0.wp.com/www.serendypia.com/wp-content/uploads/2022/12/avatar_es.jpg?fit=1140%2C660&ssl=1",
-    "answers": ["Krypton", "Tatooine", "Pandora", "Endor"],
+    "image": "https://picsum.photos/seed/cine-8/600/400",
+    "answers": [
+      "Krypton",
+      "Endor",
+      "Pandora",
+      "Tatooine"
+    ],
     "correctAnswer": 2,
     "category": "cine"
   },
   {
     "id": 77,
     "question": "¿Quién interpretó al Joker en 'The Dark Knight' de 2008?",
-    "image": "https://www.futuro.cl/wp-content/uploads/2020/07/the-dark-knight-5055eed99355e-card.jpg",
+    "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&q=80",
     "answers": [
-      "Joaquin Phoenix",
       "Heath Ledger",
       "Jared Leto",
+      "Joaquin Phoenix",
       "Jack Nicholson"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "category": "cine"
   },
   {
     "id": 78,
     "question": "¿Cuál fue la primera película animada en ser nominada al Óscar como Mejor Película?",
-    "image": "https://media.revistagq.com/photos/5d5130eef1043a000920d7de/master/pass/los%20simpson.jpg",
-    "answers": ["El Rey León", "Toy Story", "La Bella y la Bestia", "Shrek"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=600&q=80",
+    "answers": [
+      "La Bella y la Bestia",
+      "Toy Story",
+      "El Rey León",
+      "Shrek"
+    ],
+    "correctAnswer": 0,
     "category": "cine"
   },
   {
     "id": 79,
     "question": "¿Qué película cuenta la historia de un payaso asesino en un pequeño pueblo?",
-    "image": "https://rollingstone.com.br/media/_versions/george_it_a_coisa_reprod_warner_widelg.jpg",
-    "answers": ["Saw", "El Conjuro", "It", "El Resplandor"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+    "answers": [
+      "El Resplandor",
+      "Saw",
+      "El Conjuro",
+      "It"
+    ],
+    "correctAnswer": 3,
     "category": "cine"
   },
   {
     "id": 80,
     "question": "¿En qué película Leonardo DiCaprio ganó su primer Óscar como Mejor Actor?",
-    "image": "https://www.lasfuriasmagazine.com/wp-content/uploads/2020/10/leonardo-dicaprio-1.jpeg",
+    "image": "https://images.unsplash.com/photo-1534614971-6be99a7a3ffd?w=600&q=80",
     "answers": [
+      "Diamante de sangre",
       "El lobo de Wall Street",
-      "Titanic",
       "El Renacido",
-      "Diamante de sangre"
+      "Titanic"
     ],
     "correctAnswer": 2,
     "category": "cine"
@@ -769,347 +1042,492 @@
   {
     "id": 81,
     "question": "¿Qué país ha ganado más Copas Mundiales de Fútbol?",
-    "image": "https://s3.abcstatics.com/media/bienestar/2019/09/17/futbol-1-kU3C--1248x698@abc.jpg",
-    "answers": ["Alemania", "Argentina", "Brasil", "Italia"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=600&q=80",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "Alemania",
+      "Italia"
+    ],
+    "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 82,
     "question": "¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos?",
-    "image": "https://s.france24.com/media/display/136e8e2e-46c6-11ef-a840-005056bfb2b6/w:1280/p:16x9/James-1.jpg",
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&q=80",
     "answers": [
-      "Kobe Bryant",
       "LeBron James",
-      "Magic Johnson",
-      "Michael Jordan"
+      "Michael Jordan",
+      "Kobe Bryant",
+      "Magic Johnson"
     ],
-    "correctAnswer": 3,
+    "correctAnswer": 1,
     "category": "deportes"
   },
   {
     "id": 83,
     "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
-    "image": "https://humanidades.com/wp-content/uploads/2018/07/juegos-olimpicos-2-e1574301404985.jpg",
-    "answers": ["1896", "1900", "1888", "1924"],
+    "image": "https://picsum.photos/seed/deportes-1/600/400",
+    "answers": [
+      "1896",
+      "1900",
+      "1888",
+      "1924"
+    ],
     "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 84,
     "question": "¿En qué deporte se utiliza una red alta y una pelota que se golpea con la mano?",
-    "image": "https://www.fundeu.es/wp-content/uploads/2021/01/voleibol-webefesptwelve224491.jpg",
-    "answers": ["Tenis", "Balonmano", "Vóleibol", "Bádminton"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=600&q=80",
+    "answers": [
+      "Tenis",
+      "Bádminton",
+      "Balonmano",
+      "Vóleibol"
+    ],
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 85,
     "question": "¿Qué selección ganó la Eurocopa 2016?",
-    "image": "https://imagenes.elpais.com/resizer/v2/J7NCKJUQ2FD53EBSXFHUFLNWSU.jpg?auth=36a94fc405e5bf6993535cd92a6ef6e13b6eb846dc42567be16cbd5ea6a74756&width=414",
-    "answers": ["Francia", "España", "Alemania", "Portugal"],
-    "correctAnswer": 3,
+    "image": "https://picsum.photos/seed/deportes-2/600/400",
+    "answers": [
+      "España",
+      "Francia",
+      "Portugal",
+      "Alemania"
+    ],
+    "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 86,
     "question": "¿Quién tiene el récord de más medallas olímpicas?",
-    "image": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/02/08/Paris2024-MEDAILLES-CMJN-3-MEDAILLES-OLY-HEXAGONE-1-1.-k08B-U21014740589875fB-1200x840@El%20Correo.jpg",
-    "answers": ["Usain Bolt", "Simone Biles", "Carl Lewis", "Michael Phelps"],
+    "image": "https://picsum.photos/seed/deportes-3/600/400",
+    "answers": [
+      "Simone Biles",
+      "Carl Lewis",
+      "Usain Bolt",
+      "Michael Phelps"
+    ],
     "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 87,
     "question": "¿Qué deporte se juega en Wimbledon?",
-    "image": "https://www.tennisworldusa.org/imgb/133735/wimbledon-2023-will-have-many-new-features.webp",
-    "answers": ["Tenis", "Críquet", "Golf", "Fútbol"],
-    "correctAnswer": 0,
+    "image": "https://picsum.photos/seed/deportes-4/600/400",
+    "answers": [
+      "Fútbol",
+      "Golf",
+      "Tenis",
+      "Críquet"
+    ],
+    "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 88,
     "question": "¿Cuántos jugadores hay en un equipo de baloncesto en la cancha?",
-    "image": "https://img.asmedia.epimg.net/resizer/v2/ADUQXYZWWBP5HNI4HRLR62JFXM.jpg?auth=10886c6d14a09f8914d6cbbcdc4364b5a5b6da74da1054c343285fb7786dbf50&width=644&height=362&smart=true",
-    "answers": ["4", "5", "6", "7"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&q=80",
+    "answers": [
+      "7",
+      "6",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 89,
     "question": "¿Cuál es el evento deportivo más visto del mundo?",
-    "image": "https://estaticos-cdn.prensaiberica.es/clip/be0e9932-1242-4a89-beb6-fcd8c840d86b_source-aspect-ratio_default_0.jpg",
+    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=600&q=80",
     "answers": [
-      "Juegos Olímpicos",
-      "Super Bowl",
+      "Tour de Francia",
       "Copa Mundial de Fútbol",
-      "Tour de Francia"
+      "Juegos Olímpicos",
+      "Super Bowl"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "category": "deportes"
   },
   {
     "id": 90,
     "question": "¿Qué boxeador es apodado 'Canelo'?",
-    "image": "https://7dias.com.do/wp-content/uploads/2025/05/Canelo-Alvarez-se-consagro-como-campeon-indiscutido-de-las-168-libras.jpg",
+    "image": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?w=600&q=80",
     "answers": [
-      "Julio César Chávez",
+      "Manny Pacquiao",
       "Floyd Mayweather",
-      "Saúl Álvarez",
-      "Manny Pacquiao"
+      "Julio César Chávez",
+      "Saúl Álvarez"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 91,
     "question": "¿Qué país fue sede de los Juegos Olímpicos de 2020 (realizados en 2021)?",
-    "image": "https://img.europapress.es/fotoweb/fotonoticia_20231013163225_690.jpg",
-    "answers": ["China", "Japón", "Corea del Sur", "Brasil"],
-    "correctAnswer": 1,
+    "image": "https://picsum.photos/seed/deportes-5/600/400",
+    "answers": [
+      "Brasil",
+      "China",
+      "Corea del Sur",
+      "Japón"
+    ],
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 92,
     "question": "¿Qué selección ganó la Copa América 2021?",
-    "image": "https://peru21.pe/sites/default/efsfiles/2023-10/CWJJ46WQIJBOPJ6N7MUFPRUI6E_1.jpg",
-    "answers": ["Brasil", "Uruguay", "Chile", "Argentina"],
-    "correctAnswer": 3,
+    "image": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=600&q=80",
+    "answers": [
+      "Brasil",
+      "Argentina",
+      "Chile",
+      "Uruguay"
+    ],
+    "correctAnswer": 1,
     "category": "deportes"
   },
   {
     "id": 93,
     "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2012?",
-    "image": "https://pinanson.eu/wp-content/uploads/2022/04/olimpiadas-londres-2012.jpg",
-    "answers": ["Londres", "Río de Janeiro", "Tokio", "Beijing"],
+    "image": "https://images.unsplash.com/photo-1513313778780-9ae4807465f0?w=600&q=80",
+    "answers": [
+      "Londres",
+      "Tokio",
+      "Río de Janeiro",
+      "Beijing"
+    ],
     "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 94,
     "question": "¿Cuál es el deporte nacional de Japón?",
-    "image": "https://japondesdejapon.com/wp-content/uploads/2024/06/sumo-portada.jpg",
-    "answers": ["Judo", "Karate", "Sumo", "Zumo"],
-    "correctAnswer": 2,
+    "image": "https://picsum.photos/seed/cultura-general-16/600/400",
+    "answers": [
+      "Judo",
+      "Karate",
+      "Zumo",
+      "Sumo"
+    ],
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 95,
     "question": "¿Cuántos minutos dura un partido de fútbol profesional?",
-    "image": "https://www.infobae.com/resizer/v2/5IELOHVPAJHQLIFHIQ6BMWUKR4.jpg?auth=4745ed3cfa1296cddc2c26a38fad0776a7432cfc54de26adf25a522829490cce&smart=true&width=1200&height=630&quality=85",
-    "answers": ["60", "90", "80", "100"],
-    "correctAnswer": 1,
+    "image": "https://picsum.photos/seed/deportes-6/600/400",
+    "answers": [
+      "90",
+      "60",
+      "100",
+      "80"
+    ],
+    "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 96,
     "question": "¿En qué año Diego Maradona anotó el famoso gol 'La Mano de Dios'?",
-    "image": "https://images.ecestaticos.com/ij6uDUT8pUtO-cxhpwecXpM5N6U=/0x0:1000x563/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F68a%2Fd2a%2F4f5%2F68ad2a4f52c65b274d7acb146d8b11bc.jpg",
-    "answers": ["1982", "1986", "1990", "1978"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&q=80",
+    "answers": [
+      "1978",
+      "1990",
+      "1982",
+      "1986"
+    ],
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 97,
     "question": "¿Cuál es el máximo goleador de la historia del fútbol profesional?",
-    "image": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/ffe5d35b-8d19-4385-ae89-de84de661f16.jpeg",
-    "answers": ["Lionel Messi", "Pelé", "Cristiano Ronaldo", "Romário"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=600&q=80",
+    "answers": [
+      "Cristiano Ronaldo",
+      "Pelé",
+      "Lionel Messi",
+      "Romário"
+    ],
+    "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 98,
     "question": "¿Qué equipo ha ganado más títulos de la Champions League?",
-    "image": "https://www.articulo66.com/wp-content/uploads/2018/02/XDXDXD.jpg",
-    "answers": ["Barcelona", "Liverpool", "AC Milan", "Real Madrid"],
-    "correctAnswer": 3,
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&q=80",
+    "answers": [
+      "Barcelona",
+      "Liverpool",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 99,
     "question": "¿Quién es considerado el mejor velocista de todos los tiempos?",
-    "image": "https://fotografias.larazon.es/clipping/cmsimages01/2020/08/17/E4AA3880-2247-4E12-99FB-F0051B481ACD/98.jpg?crop=3186,1793,x0,y183&width=1900&height=1069&optimize=low&format=webply",
-    "answers": ["Carl Lewis", "Asafa Powell", "Tyson Gay", "Usain Bolt"],
-    "correctAnswer": 3,
+    "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=600&q=80",
+    "answers": [
+      "Carl Lewis",
+      "Tyson Gay",
+      "Usain Bolt",
+      "Asafa Powell"
+    ],
+    "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 100,
     "question": "¿Qué país organiza el Tour de Francia?",
-    "image": "https://ullerco.com/cdn/shop/articles/le-tour-de-france.jpg?v=1617017414",
-    "answers": ["Italia", "España", "Francia", "Suiza"],
+    "image": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?w=600&q=80",
+    "answers": [
+      "Suiza",
+      "Italia",
+      "Francia",
+      "España"
+    ],
     "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 101,
     "question": "¿Cuántos anillos olímpicos hay?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg",
-    "answers": ["4", "5", "6", "7"],
-    "correctAnswer": 1,
+    "image": "https://picsum.photos/seed/deportes-7/600/400",
+    "answers": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 102,
     "question": "¿En qué país nació Novak Djokovic?",
-    "image": "https://www.lanacion.com.ar/resizer/v2/el-tenista-novak-djokovic-igualo-al-espanol-HIAZTFUGTJCJPP6PZMZBHQZ2DM.JPG?auth=b8a25a5d8f2ffcb9aae8e2be4e37146a3852aa758c8794003b06f42ea05c7b15&width=420&height=280&quality=70&smart=true",
-    "answers": ["Croacia", "Rusia", "Serbia", "Eslovenia"],
+    "image": "https://picsum.photos/seed/deportes-8/600/400",
+    "answers": [
+      "Eslovenia",
+      "Croacia",
+      "Serbia",
+      "Rusia"
+    ],
     "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 103,
     "question": "¿Cuál es el estadio más grande del mundo por capacidad?",
-    "image": "https://i.ytimg.com/vi/7Lx8KUo5MQw/maxresdefault.jpg",
-    "answers": ["Maracaná", "Camp Nou", "Rungrado 1st of May", "Wembley"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=600&q=80",
+    "answers": [
+      "Rungrado 1st of May",
+      "Wembley",
+      "Maracaná",
+      "Camp Nou"
+    ],
+    "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 104,
     "question": "¿Qué futbolista ganó el Balón de Oro en 2022?",
-    "image": "https://s1.elespanol.com/2024/10/28/deportes/futbol/896920972_250424049_1706x960.png",
+    "image": "https://picsum.photos/seed/deportes-9/600/400",
     "answers": [
       "Kylian Mbappé",
-      "Karim Benzema",
+      "Kevin De Bruyne",
       "Lionel Messi",
-      "Kevin De Bruyne"
+      "Karim Benzema"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 105,
     "question": "¿Qué país ha ganado más medallas en los Juegos Olímpicos de Verano?",
-    "image": "https://deportes-aventura.es/wp-content/uploads/2020/02/juegos-olimpicos-de-verano.jpg",
-    "answers": ["Rusia", "China", "Reino Unido", "Estados Unidos"],
-    "correctAnswer": 3,
+    "image": "https://picsum.photos/seed/deportes-10/600/400",
+    "answers": [
+      "Reino Unido",
+      "Estados Unidos",
+      "China",
+      "Rusia"
+    ],
+    "correctAnswer": 1,
     "category": "deportes"
   },
   {
     "id": 106,
     "question": "¿Qué selección nacional ha ganado más Copas del Mundo de fútbol?",
-    "image": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2022/10/24/mundialAFP-RQt31RYRhs5zGcPFkBKsUJO-1240x768@abc.jpg",
-    "answers": ["Alemania", "Italia", "Brasil", "Argentina"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=600&q=80",
+    "answers": [
+      "Brasil",
+      "Alemania",
+      "Argentina",
+      "Italia"
+    ],
+    "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 107,
     "question": "¿Qué tenista ha ganado más títulos de Grand Slam en la historia masculina?",
-    "image": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2023/09/11/djokovic-levantando-el-us-open-su-24-grand-slam.jpeg",
+    "image": "https://picsum.photos/seed/deportes-11/600/400",
     "answers": [
       "Roger Federer",
+      "Pete Sampras",
       "Rafael Nadal",
-      "Novak Djokovic",
-      "Pete Sampras"
+      "Novak Djokovic"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "category": "deportes"
   },
   {
     "id": 108,
     "question": "¿En qué deporte se destaca el Tour de Francia?",
-    "image": "https://www.pamplona.es/sites/default/files/2021-07/tour-de-francia-2020-aplazado.jpg",
-    "answers": ["Automovilismo", "Ciclismo", "Atletismo", "Motociclismo"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?w=600&q=80",
+    "answers": [
+      "Ciclismo",
+      "Automovilismo",
+      "Motociclismo",
+      "Atletismo"
+    ],
+    "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 109,
     "question": "¿Qué país ganó el Mundial de Fútbol de 1998?",
-    "image": "https://images.daznservices.com/di/library/DAZN_News/e5/4/brazil-france-1998_kzaras9j4n5f1xkpt8ar47yf4.jpg?t=1029863284",
-    "answers": ["Francia", "Brasil", "Alemania", "Argentina"],
-    "correctAnswer": 0,
+    "image": "https://picsum.photos/seed/deportes-12/600/400",
+    "answers": [
+      "Argentina",
+      "Brasil",
+      "Francia",
+      "Alemania"
+    ],
+    "correctAnswer": 2,
     "category": "deportes"
   },
   {
     "id": 110,
     "question": "¿Quién es conocido como 'el rey del fútbol'?",
-    "image": "https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fprisa%2FXXV7MKGQAG343N6YZSGKDPZVRM.jpg?auth=387e8e8f1bbf93a7d95a2f612976d83d6672a043a148ace71b5726fd18158db7&width=1200&height=675&smart=true",
-    "answers": ["Maradona", "Messi", "Ronaldo", "Pelé"],
-    "correctAnswer": 3,
+    "image": "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=600&q=80",
+    "answers": [
+      "Pelé",
+      "Ronaldo",
+      "Maradona",
+      "Messi"
+    ],
+    "correctAnswer": 0,
     "category": "deportes"
   },
   {
     "id": 111,
     "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
-    "image": "https://s2.abcstatics.com/media/historia/2019/05/29/Desembarco%20de%20Normadia%202%20@abc-kpDF--1248x698@abc.jpg",
-    "answers": ["1937", "1939", "1941", "1945"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
+    "answers": [
+      "1945",
+      "1937",
+      "1939",
+      "1941"
+    ],
+    "correctAnswer": 2,
     "category": "historia"
   },
   {
     "id": 112,
     "question": "¿Quién fue el primer emperador de Roma?",
-    "image": "https://latunicadeneso.wordpress.com/wp-content/uploads/2014/08/estatua-augusto.jpg",
-    "answers": ["Julio César", "Augusto", "Nerón", "Tiberio"],
-    "correctAnswer": 1,
+    "image": "https://picsum.photos/seed/historia-1/600/400",
+    "answers": [
+      "Augusto",
+      "Tiberio",
+      "Nerón",
+      "Julio César"
+    ],
+    "correctAnswer": 0,
     "category": "historia"
   },
   {
     "id": 113,
     "question": "¿Qué civilización construyó las pirámides de Egipto?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1200px-All_Gizah_Pyramids.jpg",
-    "answers": ["Mesopotámica", "Romana", "Egipcia", "Maya"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=600&q=80",
+    "answers": [
+      "Maya",
+      "Romana",
+      "Mesopotámica",
+      "Egipcia"
+    ],
+    "correctAnswer": 3,
     "category": "historia"
   },
   {
     "id": 114,
     "question": "¿Quién fue el líder del Tercer Reich durante la Segunda Guerra Mundial?",
-    "image": "https://images.ecestaticos.com/sBnDrQ9eu0M_cMPV6Gd7_b5N5g4=/0x17:1021x553/600x315/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8d7%2F31b%2F1aa%2F8d731b1aaa18dfc095c4cedce9ef201d.jpg",
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
     "answers": [
-      "Adolf Hitler",
-      "Benito Mussolini",
       "Winston Churchill",
-      "Joseph Stalin"
+      "Joseph Stalin",
+      "Adolf Hitler",
+      "Benito Mussolini"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "category": "historia"
   },
   {
     "id": 115,
     "question": "¿Qué imperio construyó el Coliseo en Roma?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
-    "answers": ["Griego", "Egipcio", "Romano", "Bizantino"],
-    "correctAnswer": 2,
-    "category": "historia"
-  },
-  {
-    "id": 116,
-    "question": "¿Quién fue el primer presidente de Estados Unidos?",
-    "image": "https://www.worldhistory.org/img/c/p/1600x900/19336.jpg",
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&q=80",
     "answers": [
-      "George Washington",
-      "Abraham Lincoln",
-      "Thomas Jefferson",
-      "John Adams"
+      "Romano",
+      "Griego",
+      "Egipcio",
+      "Bizantino"
     ],
     "correctAnswer": 0,
     "category": "historia"
   },
   {
-    "id": 117,
-    "question": "¿Cuál fue la causa principal de la Primera Guerra Mundial?",
-    "image": "https://concepto.de/wp-content/uploads/2018/02/PGM-portada-2.jpg",
+    "id": 116,
+    "question": "¿Quién fue el primer presidente de Estados Unidos?",
+    "image": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?w=600&q=80",
     "answers": [
-      "La Revolución Rusa",
-      "El asesinato del archiduque Francisco Fernando",
-      "La invasión de Polonia",
-      "El Tratado de Versalles"
+      "Thomas Jefferson",
+      "George Washington",
+      "Abraham Lincoln",
+      "John Adams"
     ],
     "correctAnswer": 1,
     "category": "historia"
   },
   {
+    "id": 117,
+    "question": "¿Cuál fue la causa principal de la Primera Guerra Mundial?",
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
+    "answers": [
+      "El asesinato del archiduque Francisco Fernando",
+      "La invasión de Polonia",
+      "La Revolución Rusa",
+      "El Tratado de Versalles"
+    ],
+    "correctAnswer": 0,
+    "category": "historia"
+  },
+  {
     "id": 118,
     "question": "¿Qué revolución tuvo lugar en Francia en 1789?",
-    "image": "https://mihistoriauniversal.com/wp-content/uploads/revolucion-francesa.jpg",
+    "image": "https://picsum.photos/seed/historia-2/600/400",
     "answers": [
-      "Revolución Industrial",
       "Revolución Rusa",
       "Revolución Americana",
+      "Revolución Industrial",
       "Revolución Francesa"
     ],
     "correctAnswer": 3,
@@ -1118,10 +1536,10 @@
   {
     "id": 119,
     "question": "¿Quién fue el líder de la independencia de la India?",
-    "image": "https://mihistoriauniversal.com/wp-content/uploads/gandhi-india.jpg",
+    "image": "https://picsum.photos/seed/historia-3/600/400",
     "answers": [
-      "Jawaharlal Nehru",
       "Subhas Chandra Bose",
+      "Jawaharlal Nehru",
       "Gandhi",
       "Indira Gandhi"
     ],
@@ -1131,73 +1549,98 @@
   {
     "id": 120,
     "question": "¿Qué evento marcó el inicio de la Segunda Guerra Mundial?",
-    "image": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2018/09/26/_33dbombardmentsquadronb24liberators_63b40930.jpg",
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
     "answers": [
-      "Ataque a Pearl Harbor",
       "Bombardeo de Londres",
-      "Invasión de Polonia",
-      "Caída de París"
-    ],
-    "correctAnswer": 2,
-    "category": "historia"
-  },
-  {
-    "id": 121,
-    "question": "¿Cuál fue el nombre del barco en el que viajaban los peregrinos hacia América en 1620?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mayflower_in_Plymouth_Harbor%2C_by_William_Halsall.jpg",
-    "answers": ["Santa María", "Mayflower", "Endeavour", "Beagle"],
-    "correctAnswer": 1,
-    "category": "historia"
-  },
-  {
-    "id": 122,
-    "question": "¿Qué civilización fue conocida por usar jeroglíficos?",
-    "image": "https://static.eldiario.es/clip/79ec44b8-f6e7-419e-b849-d74cefec2337_16-9-discover-aspect-ratio_default_0.jpg",
-    "answers": ["China", "Egipto", "Roma", "Grecia"],
-    "correctAnswer": 1,
-    "category": "historia"
-  },
-  {
-    "id": 123,
-    "question": "¿Quién fue el emperador de Francia que fue exiliado a la isla de Elba?",
-    "image": "https://i.redd.it/q1bmbwal23i71.jpg",
-    "answers": ["Napoleón Bonaparte", "Luis XIV", "Robespierre", "Carlos X"],
-    "correctAnswer": 0,
-    "category": "historia"
-  },
-  {
-    "id": 124,
-    "question": "¿En qué conflicto se usó por primera vez el gas mostaza como arma?",
-    "image": "https://c.files.bbci.co.uk/63BE/production/_105943552_gas-arriba.jpg",
-    "answers": [
-      "Guerra de Vietnam",
-      "Segunda Guerra Mundial",
-      "Guerra de Crimea",
-      "Primera Guerra Mundial"
+      "Ataque a Pearl Harbor",
+      "Caída de París",
+      "Invasión de Polonia"
     ],
     "correctAnswer": 3,
     "category": "historia"
   },
   {
+    "id": 121,
+    "question": "¿Cuál fue el nombre del barco en el que viajaban los peregrinos hacia América en 1620?",
+    "image": "https://picsum.photos/seed/cultura-general-17/600/400",
+    "answers": [
+      "Mayflower",
+      "Beagle",
+      "Endeavour",
+      "Santa María"
+    ],
+    "correctAnswer": 0,
+    "category": "historia"
+  },
+  {
+    "id": 122,
+    "question": "¿Qué civilización fue conocida por usar jeroglíficos?",
+    "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=600&q=80",
+    "answers": [
+      "China",
+      "Grecia",
+      "Roma",
+      "Egipto"
+    ],
+    "correctAnswer": 3,
+    "category": "historia"
+  },
+  {
+    "id": 123,
+    "question": "¿Quién fue el emperador de Francia que fue exiliado a la isla de Elba?",
+    "image": "https://picsum.photos/seed/historia-4/600/400",
+    "answers": [
+      "Robespierre",
+      "Luis XIV",
+      "Napoleón Bonaparte",
+      "Carlos X"
+    ],
+    "correctAnswer": 2,
+    "category": "historia"
+  },
+  {
+    "id": 124,
+    "question": "¿En qué conflicto se usó por primera vez el gas mostaza como arma?",
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
+    "answers": [
+      "Guerra de Crimea",
+      "Primera Guerra Mundial",
+      "Guerra de Vietnam",
+      "Segunda Guerra Mundial"
+    ],
+    "correctAnswer": 1,
+    "category": "historia"
+  },
+  {
     "id": 125,
     "question": "¿Cuál fue el imperio más extenso de la historia?",
-    "image": "https://static.vecteezy.com/system/resources/previews/021/217/838/non_2x/world-map-with-country-names-free-vector.jpg",
-    "answers": ["Romano", "Mongol", "Británico", "Otomano"],
-    "correctAnswer": 2,
+    "image": "https://picsum.photos/seed/cultura-general-18/600/400",
+    "answers": [
+      "Otomano",
+      "Romano",
+      "Mongol",
+      "Británico"
+    ],
+    "correctAnswer": 3,
     "category": "historia"
   },
   {
     "id": 126,
     "question": "¿Qué país fue dividido por el Muro de Berlín?",
-    "image": "https://ethic.es/wp-content/uploads/2019/11/muro1.jpg",
-    "answers": ["Alemania", "Francia", "Rusia", "Polonia"],
-    "correctAnswer": 0,
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
+    "answers": [
+      "Francia",
+      "Alemania",
+      "Polonia",
+      "Rusia"
+    ],
+    "correctAnswer": 1,
     "category": "historia"
   },
   {
     "id": 127,
     "question": "¿Qué revolución industrializó gran parte del mundo en el siglo XIX?",
-    "image": "https://static.nationalgeographicla.com/files/styles/image_3200/public/making-steel-by-skinner-17215.png.webp?w=1600&h=900",
+    "image": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?w=600&q=80",
     "answers": [
       "Revolución Francesa",
       "Revolución Rusa",
@@ -1210,73 +1653,88 @@
   {
     "id": 128,
     "question": "¿Qué antigua ciudad fue sepultada por la erupción del Vesubio en el año 79 d.C.?",
-    "image": "https://mihistoriauniversal.com/wp-content/uploads/victimas-pompeya.jpg",
-    "answers": ["Pompeya", "Roma", "Cartago", "Atenas"],
-    "correctAnswer": 0,
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&q=80",
+    "answers": [
+      "Roma",
+      "Atenas",
+      "Pompeya",
+      "Cartago"
+    ],
+    "correctAnswer": 2,
     "category": "historia"
   },
   {
     "id": 129,
     "question": "¿Quién fue el dictador español durante gran parte del siglo XX?",
-    "image": "https://humanidades.com/wp-content/uploads/2018/11/francisco-franco-e1543524367511.jpg",
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
     "answers": [
-      "Francisco Franco",
-      "Felipe VI",
       "Carlos III",
-      "José María Aznar"
+      "Francisco Franco",
+      "José María Aznar",
+      "Felipe VI"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "category": "historia"
   },
   {
     "id": 130,
     "question": "¿Cuál fue el nombre del primer satélite artificial lanzado al espacio?",
-    "image": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2022/10/18/634dd2ad897a4-schema.jpeg",
-    "answers": ["Apollo 11", "Sputnik 1", "Luna 2", "Explorer 1"],
-    "correctAnswer": 1,
+    "image": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=600&q=80",
+    "answers": [
+      "Explorer 1",
+      "Apollo 11",
+      "Sputnik 1",
+      "Luna 2"
+    ],
+    "correctAnswer": 2,
     "category": "historia"
   },
   {
     "id": 131,
     "question": "¿Qué país construyó la Gran Muralla?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/20090529_Great_Wall_8185.jpg",
-    "answers": ["Japón", "India", "China", "Mongolia"],
-    "correctAnswer": 2,
-    "category": "historia"
-  },
-  {
-    "id": 132,
-    "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
-    "image": "https://concepto.de/wp-content/uploads/2019/06/tratado-de-versalles-e1560987894413.jpg",
+    "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=600&q=80",
     "answers": [
-      "Tratado de París",
-      "Tratado de Versalles",
-      "Tratado de Ginebra",
-      "Pacto de Múnich"
+      "Mongolia",
+      "China",
+      "India",
+      "Japón"
     ],
     "correctAnswer": 1,
     "category": "historia"
   },
   {
+    "id": 132,
+    "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
+    "answers": [
+      "Tratado de Ginebra",
+      "Pacto de Múnich",
+      "Tratado de París",
+      "Tratado de Versalles"
+    ],
+    "correctAnswer": 3,
+    "category": "historia"
+  },
+  {
     "id": 133,
     "question": "¿Cuál fue el nombre del imperio que gobernó gran parte del Medio Oriente durante siglos?",
-    "image": "https://academiaplay.net/wp-content/uploads/2022/01/imperio-otomano-2.jpg",
+    "image": "https://picsum.photos/seed/historia-5/600/400",
     "answers": [
-      "Imperio Otomano",
-      "Imperio Bizantino",
       "Imperio Persa",
-      "Imperio Ruso"
+      "Imperio Ruso",
+      "Imperio Bizantino",
+      "Imperio Otomano"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "category": "historia"
   },
   {
     "id": 134,
     "question": "¿Quién escribió la 'Declaración de Independencia' de los Estados Unidos?",
-    "image": "https://cdn.britannica.com/98/172698-138-9CD9F1E6/overview-Thomas-Jefferson.jpg?w=800&h=450&c=crop",
+    "image": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?w=600&q=80",
     "answers": [
-      "George Washington",
       "John Adams",
+      "George Washington",
       "Thomas Jefferson",
       "Alexander Hamilton"
     ],
@@ -1286,64 +1744,1639 @@
   {
     "id": 135,
     "question": "¿Cuál fue la causa principal de la Guerra Fría?",
-    "image": "https://concepto.de/wp-content/uploads/2024/02/guerra-fria-union-sovieta-estados-unidos.jpg",
+    "image": "https://images.unsplash.com/photo-1560969184-10fe8719e047?w=600&q=80",
     "answers": [
-      "Disputas religiosas",
+      "Conflictos fronterizos",
       "Colonialismo",
-      "Tensiones ideológicas entre EE.UU. y la URSS",
-      "Conflictos fronterizos"
+      "Disputas religiosas",
+      "Tensiones ideológicas entre EE.UU. y la URSS"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "category": "historia"
   },
   {
     "id": 136,
     "question": "¿Cuál fue la civilización que construyó Machu Picchu?",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
-    "answers": ["Mayas", "Aztecas", "Olmecas", "Incas"],
-    "correctAnswer": 3,
+    "image": "https://picsum.photos/seed/cultura-general-19/600/400",
+    "answers": [
+      "Incas",
+      "Mayas",
+      "Aztecas",
+      "Olmecas"
+    ],
+    "correctAnswer": 0,
     "category": "historia"
   },
   {
     "id": 137,
     "question": "¿Qué líder fue asesinado en Dallas en 1963?",
-    "image": "https://www.timeforkids.com/wp-content/uploads/2018/08/JFK_Hero.jpg?w=1024",
+    "image": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?w=600&q=80",
     "answers": [
-      "Abraham Lincoln",
       "John F. Kennedy",
+      "Martin Luther King Jr.",
       "Theodore Roosevelt",
-      "Martin Luther King Jr."
+      "Abraham Lincoln"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "category": "historia"
   },
   {
     "id": 138,
     "question": "¿Quién fue el último zar de Rusia?",
-    "image": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/06/08183329/Dinastia-Romanov-1920-3.jpg",
-    "answers": ["Nicolás II", "Pedro el Grande", "Alejandro III", "Iván IV"],
-    "correctAnswer": 0,
+    "image": "https://picsum.photos/seed/historia-6/600/400",
+    "answers": [
+      "Pedro el Grande",
+      "Alejandro III",
+      "Nicolás II",
+      "Iván IV"
+    ],
+    "correctAnswer": 2,
     "category": "historia"
   },
   {
     "id": 139,
     "question": "¿Qué país fue el primero en darle el derecho al voto a las mujeres?",
-    "image": "https://imagenes.elpais.com/resizer/v2/OVMSM5ZNGNMGTO5EHCJWRJLBIM.jpg?auth=16f5706c311188ea33dc7be5b918df137e8e0f7c55b5aa85a007053a608a6327&width=1200",
-    "answers": ["Estados Unidos", "Noruega", "Nueva Zelanda", "Reino Unido"],
-    "correctAnswer": 2,
+    "image": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=600&q=80",
+    "answers": [
+      "Noruega",
+      "Nueva Zelanda",
+      "Reino Unido",
+      "Estados Unidos"
+    ],
+    "correctAnswer": 1,
     "category": "historia"
   },
   {
     "id": 140,
     "question": "¿Quién fue el primer hombre en pisar la Luna?",
-    "image": "https://img2.rtve.es/imagenes/pequeno-paso-para-hombre-gran-salto-para-humanidad/1563284202232.jpg",
+    "image": "https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?w=600&q=80",
     "answers": [
-      "Buzz Aldrin",
+      "Yuri Gagarin",
       "Neil Armstrong",
-      "Michael Collins",
-      "Yuri Gagarin"
+      "Buzz Aldrin",
+      "Michael Collins"
     ],
     "correctAnswer": 1,
     "category": "historia"
+  },
+  {
+    "id": 141,
+    "question": "¿Cuál fue el primer videojuego de la historia?",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&q=80",
+    "answers": [
+      "Spacewar!",
+      "Computer Space",
+      "Tennis for Two",
+      "Pong"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 142,
+    "question": "¿Qué empresa creó la consola PlayStation?",
+    "image": "https://picsum.photos/seed/videojuegos-1/600/400",
+    "answers": [
+      "Sony",
+      "Microsoft",
+      "Nintendo",
+      "Sega"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 143,
+    "question": "¿En qué juego aparece el personaje de Master Chief?",
+    "image": "https://images.unsplash.com/photo-1593118247619-e2d6f056869e?w=600&q=80",
+    "answers": [
+      "Halo",
+      "Call of Duty",
+      "Titanfall",
+      "Destiny"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 144,
+    "question": "¿Cuál es el videojuego más vendido de la historia (sin contar Minecraft)?",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600&q=80",
+    "answers": [
+      "GTA V",
+      "Tetris",
+      "Wii Sports",
+      "PUBG"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 145,
+    "question": "¿Qué compañía desarrolló 'The Legend of Zelda'?",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
+    "answers": [
+      "Capcom",
+      "Sega",
+      "Sony",
+      "Nintendo"
+    ],
+    "correctAnswer": 3,
+    "category": "videojuegos"
+  },
+  {
+    "id": 146,
+    "question": "¿En qué año se lanzó el primer 'Super Mario Bros'?",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
+    "answers": [
+      "1985",
+      "1990",
+      "1983",
+      "1987"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 147,
+    "question": "¿Cuál es el nombre del protagonista de 'God of War'?",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
+    "answers": [
+      "Hércules",
+      "Zeus",
+      "Kratos",
+      "Ares"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 148,
+    "question": "¿Qué juego popularizó el género battle royale?",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600&q=80",
+    "answers": [
+      "PUBG",
+      "Apex Legends",
+      "H1Z1",
+      "Fortnite"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 149,
+    "question": "¿Qué estudio desarrolló 'The Witcher 3: Wild Hunt'?",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
+    "answers": [
+      "CD Projekt Red",
+      "BioWare",
+      "Ubisoft",
+      "Bethesda"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 150,
+    "question": "¿Cuál es la consola más vendida de la historia?",
+    "image": "https://picsum.photos/seed/videojuegos-2/600/400",
+    "answers": [
+      "PS4",
+      "Game Boy",
+      "Nintendo DS",
+      "PS2"
+    ],
+    "correctAnswer": 3,
+    "category": "videojuegos"
+  },
+  {
+    "id": 151,
+    "question": "¿En qué juego se originó el personaje de Sonic?",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
+    "answers": [
+      "Mega Man",
+      "Spyro",
+      "Crash Bandicoot",
+      "Sonic the Hedgehog"
+    ],
+    "correctAnswer": 3,
+    "category": "videojuegos"
+  },
+  {
+    "id": 152,
+    "question": "¿Qué juego de 2011 es considerado uno de los mejores RPG de la historia?",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
+    "answers": [
+      "Dark Souls",
+      "Skyrim",
+      "The Witcher 2",
+      "Mass Effect 2"
+    ],
+    "correctAnswer": 1,
+    "category": "videojuegos"
+  },
+  {
+    "id": 153,
+    "question": "¿Quién es el creador de la saga 'Metal Gear Solid'?",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&q=80",
+    "answers": [
+      "Hideo Kojima",
+      "Fumito Ueda",
+      "Yoko Taro",
+      "Shigeru Miyamoto"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 154,
+    "question": "¿Qué juego de terror fue desarrollado por Frictional Games?",
+    "image": "https://picsum.photos/seed/cine-9/600/400",
+    "answers": [
+      "Amnesia: The Dark Descent",
+      "Outlast",
+      "Resident Evil 7",
+      "Silent Hill 2"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 155,
+    "question": "¿En qué ciudad está ambientado 'Grand Theft Auto: Vice City'?",
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=600&q=80",
+    "answers": [
+      "Miami",
+      "Las Vegas",
+      "Los Angeles",
+      "Nueva York"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 156,
+    "question": "¿Cuál fue el primer juego de la saga 'Final Fantasy' lanzado?",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
+    "answers": [
+      "1992",
+      "1990",
+      "1987",
+      "1985"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 157,
+    "question": "¿Qué empresa es dueña de la franquicia 'Call of Duty'?",
+    "image": "https://images.unsplash.com/photo-1593118247619-e2d6f056869e?w=600&q=80",
+    "answers": [
+      "Take-Two",
+      "Ubisoft",
+      "Activision",
+      "Electronic Arts"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 158,
+    "question": "¿Qué videojuego inspiró la serie de Netflix 'Arcane'?",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&q=80",
+    "answers": [
+      "Valorant",
+      "League of Legends",
+      "Overwatch",
+      "Dota 2"
+    ],
+    "correctAnswer": 1,
+    "category": "videojuegos"
+  },
+  {
+    "id": 159,
+    "question": "¿Qué consola fue la primera en usar discos ópticos?",
+    "image": "https://picsum.photos/seed/videojuegos-3/600/400",
+    "answers": [
+      "PC Engine CD",
+      "Sega Saturn",
+      "3DO",
+      "PlayStation"
+    ],
+    "correctAnswer": 3,
+    "category": "videojuegos"
+  },
+  {
+    "id": 160,
+    "question": "¿Cómo se llama el mundo principal en 'Minecraft'?",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600&q=80",
+    "answers": [
+      "Nether",
+      "Overworld",
+      "Hyperspace",
+      "End"
+    ],
+    "correctAnswer": 1,
+    "category": "videojuegos"
+  },
+  {
+    "id": 161,
+    "question": "¿Qué año se fundó Nintendo?",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
+    "answers": [
+      "1889",
+      "1975",
+      "1950",
+      "1901"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 162,
+    "question": "¿Cuál es el juego más vendido de Nintendo Switch?",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
+    "answers": [
+      "The Legend of Zelda: Breath of the Wild",
+      "Mario Kart 8 Deluxe",
+      "Pokémon Espada/Escudo",
+      "Animal Crossing"
+    ],
+    "correctAnswer": 1,
+    "category": "videojuegos"
+  },
+  {
+    "id": 163,
+    "question": "¿Qué estudio creó 'Red Dead Redemption 2'?",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
+    "answers": [
+      "Ubisoft",
+      "Naughty Dog",
+      "Rockstar Games",
+      "Bethesda"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 164,
+    "question": "¿En qué juego aparece el personaje de Lara Croft?",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&q=80",
+    "answers": [
+      "Horizon",
+      "Far Cry",
+      "Tomb Raider",
+      "Uncharted"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 165,
+    "question": "¿Qué saga de juegos se caracteriza por sus puzzles y mecánicas de portal?",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600&q=80",
+    "answers": [
+      "The Witness",
+      "Q.U.B.E.",
+      "Portal",
+      "Antichamber"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 166,
+    "question": "¿Cuál fue el primer Pokémon creado por Game Freak?",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
+    "answers": [
+      "Rhydon",
+      "Mewtwo",
+      "Bulbasaur",
+      "Pikachu"
+    ],
+    "correctAnswer": 0,
+    "category": "videojuegos"
+  },
+  {
+    "id": 167,
+    "question": "¿Qué juego revolucionó los shooters en primera persona en 1993?",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&q=80",
+    "answers": [
+      "Duke Nukem 3D",
+      "Wolfenstein 3D",
+      "Quake",
+      "Doom"
+    ],
+    "correctAnswer": 3,
+    "category": "videojuegos"
+  },
+  {
+    "id": 168,
+    "question": "¿Qué personaje de videojuegos es conocido por llevar una gorra roja y bigote?",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
+    "answers": [
+      "Crash Bandicoot",
+      "Mega Man",
+      "Mario",
+      "Sonic"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 169,
+    "question": "¿Qué empresa desarrolló el motor gráfico Unreal Engine?",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
+    "answers": [
+      "Valve",
+      "Crytek",
+      "Unity Technologies",
+      "Epic Games"
+    ],
+    "correctAnswer": 3,
+    "category": "videojuegos"
+  },
+  {
+    "id": 170,
+    "question": "¿Cuál fue el videojuego más caro de producir en su momento (2018)?",
+    "image": "https://images.unsplash.com/photo-1593118247619-e2d6f056869e?w=600&q=80",
+    "answers": [
+      "Cyberpunk 2077",
+      "Destiny",
+      "Red Dead Redemption 2",
+      "Grand Theft Auto V"
+    ],
+    "correctAnswer": 2,
+    "category": "videojuegos"
+  },
+  {
+    "id": 171,
+    "question": "¿Qué banda británica lanzó el álbum 'The Dark Side of the Moon'?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "The Beatles",
+      "Queen",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "correctAnswer": 3,
+    "category": "musica"
+  },
+  {
+    "id": 172,
+    "question": "¿Cuál es el instrumento más pequeño de la orquesta?",
+    "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=600&q=80",
+    "answers": [
+      "Flautín",
+      "Triángulo",
+      "Armónica",
+      "Violín"
+    ],
+    "correctAnswer": 0,
+    "category": "musica"
+  },
+  {
+    "id": 173,
+    "question": "¿Quién es conocido como el 'Rey del Pop'?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "Elvis Presley",
+      "Prince",
+      "Michael Jackson",
+      "Madonna"
+    ],
+    "correctAnswer": 2,
+    "category": "musica"
+  },
+  {
+    "id": 174,
+    "question": "¿Qué compositor sordo escribió algunas de sus obras más famosas?",
+    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&q=80",
+    "answers": [
+      "Chopin",
+      "Beethoven",
+      "Bach",
+      "Mozart"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 175,
+    "question": "¿En qué año se celebró el festival de Woodstock?",
+    "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=600&q=80",
+    "answers": [
+      "1967",
+      "1971",
+      "1965",
+      "1969"
+    ],
+    "correctAnswer": 3,
+    "category": "musica"
+  },
+  {
+    "id": 176,
+    "question": "¿Qué banda española cantó 'La Flaca'?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "Estopa",
+      "Jarabe de Palo",
+      "Los Rodríguez",
+      "Mecano"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 177,
+    "question": "¿Cuál es el género musical originario de Jamaica?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "Merengue",
+      "Bossa Nova",
+      "Salsa",
+      "Reggae"
+    ],
+    "correctAnswer": 3,
+    "category": "musica"
+  },
+  {
+    "id": 178,
+    "question": "¿Qué cantante mexicana es conocida como 'La Reina del Mariachi'?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "Lucha Villa",
+      "Lola Beltrán",
+      "Rocío Dúrcal",
+      "Chavela Vargas"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 179,
+    "question": "¿Cuántas cuerdas tiene una guitarra clásica?",
+    "image": "https://picsum.photos/seed/musica-1/600/400",
+    "answers": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 180,
+    "question": "¿Qué grupo de K-pop tiene la mayor cantidad de seguidores en el mundo?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "BLACKPINK",
+      "BTS",
+      "EXO",
+      "TWICE"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 181,
+    "question": "¿Cuál es el álbum más vendido de la historia?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "Thriller",
+      "Back in Black",
+      "The Bodyguard",
+      "The Dark Side of the Moon"
+    ],
+    "correctAnswer": 0,
+    "category": "musica"
+  },
+  {
+    "id": 182,
+    "question": "¿Qué instrumento de viento se utiliza en el flamenco?",
+    "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=600&q=80",
+    "answers": [
+      "Saxofón",
+      "Cajón",
+      "Flauta travesera",
+      "Guitarra flamenca"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 183,
+    "question": "¿Quién compuso la 'Quinta Sinfonía'?",
+    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&q=80",
+    "answers": [
+      "Mozart",
+      "Brahms",
+      "Beethoven",
+      "Tchaikovsky"
+    ],
+    "correctAnswer": 2,
+    "category": "musica"
+  },
+  {
+    "id": 184,
+    "question": "¿Qué cantante estadounidense es conocida como 'La Reina del Pop'?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "Beyoncé",
+      "Lady Gaga",
+      "Taylor Swift",
+      "Madonna"
+    ],
+    "correctAnswer": 3,
+    "category": "musica"
+  },
+  {
+    "id": 185,
+    "question": "¿Qué estilo musical se originó en Nueva Orleans a principios del siglo XX?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "Rock and Roll",
+      "Jazz",
+      "Soul",
+      "Blues"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 186,
+    "question": "¿Cuántos integrantes tenía originalmente The Beatles?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "category": "musica"
+  },
+  {
+    "id": 187,
+    "question": "¿Qué cantante colombiana ganó varios Grammys con 'Shakira'?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "Fanny Lu",
+      "Shakira",
+      "Greeicy",
+      "Karol G"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 188,
+    "question": "¿Cuál es el festival de música más grande del mundo?",
+    "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=600&q=80",
+    "answers": [
+      "Coachella",
+      "Tomorrowland",
+      "Glastonbury",
+      "Rock in Rio"
+    ],
+    "correctAnswer": 3,
+    "category": "musica"
+  },
+  {
+    "id": 189,
+    "question": "¿Qué músico español tocó la guitarra flamenca más famosa del siglo XX?",
+    "image": "https://picsum.photos/seed/musica-2/600/400",
+    "answers": [
+      "Carlos Santana",
+      "Paco de Lucía",
+      "Tomatito",
+      "Andrés Segovia"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 190,
+    "question": "¿En qué país se originó el tango?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "España",
+      "Uruguay",
+      "Brasil",
+      "Argentina"
+    ],
+    "correctAnswer": 3,
+    "category": "musica"
+  },
+  {
+    "id": 191,
+    "question": "¿Qué banda de rock cantó 'Bohemian Rhapsody'?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "Queen",
+      "Led Zeppelin",
+      "The Rolling Stones",
+      "The Beatles"
+    ],
+    "correctAnswer": 0,
+    "category": "musica"
+  },
+  {
+    "id": 192,
+    "question": "¿Qué instrumento es el más grande de la orquesta sinfónica?",
+    "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=600&q=80",
+    "answers": [
+      "Violonchelo",
+      "Arpa",
+      "Contrabajo",
+      "Tuba"
+    ],
+    "correctAnswer": 2,
+    "category": "musica"
+  },
+  {
+    "id": 193,
+    "question": "¿Cuál es el single más vendido de todos los tiempos?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "Thriller",
+      "Candle in the Wind",
+      "White Christmas",
+      "Shape of You"
+    ],
+    "correctAnswer": 2,
+    "category": "musica"
+  },
+  {
+    "id": 194,
+    "question": "¿Qué cantante puertorriqueño popularizó el reguetón a nivel mundial?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "Wisin",
+      "Bad Bunny",
+      "Don Omar",
+      "Daddy Yankee"
+    ],
+    "correctAnswer": 3,
+    "category": "musica"
+  },
+  {
+    "id": 195,
+    "question": "¿Cuál es la nota musical que está entre 'Re' y 'Fa'?",
+    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&q=80",
+    "answers": [
+      "Si",
+      "Mi",
+      "Sol",
+      "Do"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 196,
+    "question": "¿Qué banda fue liderada por Freddie Mercury?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "The Beatles",
+      "Queen",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 197,
+    "question": "¿Qué baile típico cubano se toca con claves y maracas?",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+    "answers": [
+      "Cha-cha-chá",
+      "Bachata",
+      "Salsa",
+      "Mambo"
+    ],
+    "correctAnswer": 0,
+    "category": "musica"
+  },
+  {
+    "id": 198,
+    "question": "¿Quién compuso la ópera 'La Traviata'?",
+    "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?w=600&q=80",
+    "answers": [
+      "Verdi",
+      "Rossini",
+      "Mozart",
+      "Puccini"
+    ],
+    "correctAnswer": 0,
+    "category": "musica"
+  },
+  {
+    "id": 199,
+    "question": "¿Qué artista español es conocido por el tema 'La Bicicleta'?",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80",
+    "answers": [
+      "Alejandro Sanz",
+      "David Bisbal",
+      "Carlos Vives",
+      "Enrique Iglesias"
+    ],
+    "correctAnswer": 0,
+    "category": "musica"
+  },
+  {
+    "id": 200,
+    "question": "¿Cuántas teclas tiene un piano estándar?",
+    "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=600&q=80",
+    "answers": [
+      "108",
+      "88",
+      "76",
+      "66"
+    ],
+    "correctAnswer": 1,
+    "category": "musica"
+  },
+  {
+    "id": 201,
+    "question": "¿Cuál es el país más pequeño del mundo?",
+    "image": "https://picsum.photos/seed/cultura-general-20/600/400",
+    "answers": [
+      "Ciudad del Vaticano",
+      "San Marino",
+      "Liechtenstein",
+      "Mónaco"
+    ],
+    "correctAnswer": 0,
+    "category": "geografia"
+  },
+  {
+    "id": 202,
+    "question": "¿Cuál es el río más largo de América del Sur?",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&q=80",
+    "answers": [
+      "Orinoco",
+      "Paraná",
+      "Amazonas",
+      "São Francisco"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 203,
+    "question": "¿Cuántos países conforman el Reino Unido?",
+    "image": "https://images.unsplash.com/photo-1513313778780-9ae4807465f0?w=600&q=80",
+    "answers": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 204,
+    "question": "¿En qué continente se encuentra el desierto del Sahara?",
+    "image": "https://picsum.photos/seed/cultura-general-21/600/400",
+    "answers": [
+      "Australia",
+      "América",
+      "Asia",
+      "África"
+    ],
+    "correctAnswer": 3,
+    "category": "geografia"
+  },
+  {
+    "id": 205,
+    "question": "¿Cuál es la capital de Canadá?",
+    "image": "https://picsum.photos/seed/geografia-1/600/400",
+    "answers": [
+      "Vancouver",
+      "Toronto",
+      "Montreal",
+      "Ottawa"
+    ],
+    "correctAnswer": 3,
+    "category": "geografia"
+  },
+  {
+    "id": 206,
+    "question": "¿Qué estrecho separa Europa de África?",
+    "image": "https://picsum.photos/seed/cultura-general-22/600/400",
+    "answers": [
+      "Canal de Panamá",
+      "Canal de Suez",
+      "Estrecho de Gibraltar",
+      "Estrecho de Bering"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 207,
+    "question": "¿Cuál es el lago más profundo del mundo?",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80",
+    "answers": [
+      "Lago Baikal",
+      "Lago Superior",
+      "Caspio",
+      "Lago Victoria"
+    ],
+    "correctAnswer": 0,
+    "category": "geografia"
+  },
+  {
+    "id": 208,
+    "question": "¿Qué país tiene la mayor densidad de población?",
+    "image": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=600&q=80",
+    "answers": [
+      "Singapur",
+      "Mónaco",
+      "Hong Kong",
+      "India"
+    ],
+    "correctAnswer": 1,
+    "category": "geografia"
+  },
+  {
+    "id": 209,
+    "question": "¿Cuál es la capital de Egipto?",
+    "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=600&q=80",
+    "answers": [
+      "Luxor",
+      "Alejandría",
+      "El Cairo",
+      "Giza"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 210,
+    "question": "¿Qué país ocupa la mayor parte de la península escandinava?",
+    "image": "https://picsum.photos/seed/geografia-2/600/400",
+    "answers": [
+      "Noruega",
+      "Dinamarca",
+      "Suecia",
+      "Finlandia"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 211,
+    "question": "¿Cuántos océanos hay en el mundo?",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80",
+    "answers": [
+      "4",
+      "7",
+      "5",
+      "3"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 212,
+    "question": "¿Cuál es la capital de Corea del Sur?",
+    "image": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=600&q=80",
+    "answers": [
+      "Busan",
+      "Seúl",
+      "Incheon",
+      "Daegu"
+    ],
+    "correctAnswer": 1,
+    "category": "geografia"
+  },
+  {
+    "id": 213,
+    "question": "¿Qué cordillera es la más larga del mundo?",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+    "answers": [
+      "Alpes",
+      "Montes Urales",
+      "Andes",
+      "Himalaya"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 214,
+    "question": "¿En qué continente nació la civilización maya?",
+    "image": "https://picsum.photos/seed/cultura-general-23/600/400",
+    "answers": [
+      "Asia",
+      "Europa",
+      "América",
+      "África"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 215,
+    "question": "¿Cuál es el punto más bajo de la Tierra en tierra firme?",
+    "image": "https://picsum.photos/seed/cultura-general-24/600/400",
+    "answers": [
+      "Valle de la Muerte",
+      "Depresión de Qattara",
+      "Badwater Basin",
+      "Mar Muerto"
+    ],
+    "correctAnswer": 3,
+    "category": "geografia"
+  },
+  {
+    "id": 216,
+    "question": "¿Qué país tiene más zonas horarias?",
+    "image": "https://picsum.photos/seed/cultura-general-25/600/400",
+    "answers": [
+      "Francia",
+      "Rusia",
+      "Estados Unidos",
+      "China"
+    ],
+    "correctAnswer": 0,
+    "category": "geografia"
+  },
+  {
+    "id": 217,
+    "question": "¿Cuál es el volcán más alto del mundo?",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+    "answers": [
+      "Monte Fuji",
+      "Kilimanjaro",
+      "Ojos del Salado",
+      "Monte Vesubio"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 218,
+    "question": "¿Qué país no tiene salida al mar?",
+    "image": "https://picsum.photos/seed/cultura-general-26/600/400",
+    "answers": [
+      "Portugal",
+      "España",
+      "Suiza",
+      "Italia"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 219,
+    "question": "¿Cuál es la capital de Nueva Zelanda?",
+    "image": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=600&q=80",
+    "answers": [
+      "Auckland",
+      "Queenstown",
+      "Christchurch",
+      "Wellington"
+    ],
+    "correctAnswer": 3,
+    "category": "geografia"
+  },
+  {
+    "id": 220,
+    "question": "¿Qué país tiene la costa más larga del mundo?",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80",
+    "answers": [
+      "Canadá",
+      "Estados Unidos",
+      "Rusia",
+      "Australia"
+    ],
+    "correctAnswer": 0,
+    "category": "geografia"
+  },
+  {
+    "id": 221,
+    "question": "¿Cuál es la isla más grande del mundo?",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80",
+    "answers": [
+      "Madagascar",
+      "Isla de Baffin",
+      "Java",
+      "Groenlandia"
+    ],
+    "correctAnswer": 3,
+    "category": "geografia"
+  },
+  {
+    "id": 222,
+    "question": "¿Qué país africano tiene la mayor población?",
+    "image": "https://picsum.photos/seed/cultura-general-27/600/400",
+    "answers": [
+      "Etiopía",
+      "Egipto",
+      "Nigeria",
+      "República Democrática del Congo"
+    ],
+    "correctAnswer": 2,
+    "category": "geografia"
+  },
+  {
+    "id": 223,
+    "question": "¿Cuál es el único país que es también un continente?",
+    "image": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?w=600&q=80",
+    "answers": [
+      "Nueva Zelanda",
+      "Australia",
+      "Madagascar",
+      "Islandia"
+    ],
+    "correctAnswer": 1,
+    "category": "geografia"
+  },
+  {
+    "id": 224,
+    "question": "¿Qué ciudad es la más poblada del mundo?",
+    "image": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=600&q=80",
+    "answers": [
+      "Tokio",
+      "Shanghái",
+      "Ciudad de México",
+      "Nueva Delhi"
+    ],
+    "correctAnswer": 0,
+    "category": "geografia"
+  },
+  {
+    "id": 225,
+    "question": "¿Qué mar es el más salado del mundo?",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80",
+    "answers": [
+      "Mar Caspio",
+      "Mar Rojo",
+      "Mar Mediterráneo",
+      "Mar Muerto"
+    ],
+    "correctAnswer": 3,
+    "category": "geografia"
+  },
+  {
+    "id": 226,
+    "question": "¿Cuál es la capital de Marruecos?",
+    "image": "https://picsum.photos/seed/cultura-general-28/600/400",
+    "answers": [
+      "Casablanca",
+      "Marrakech",
+      "Tánger",
+      "Rabat"
+    ],
+    "correctAnswer": 3,
+    "category": "geografia"
+  },
+  {
+    "id": 227,
+    "question": "¿Qué río atraviesa la ciudad de Londres?",
+    "image": "https://images.unsplash.com/photo-1513313778780-9ae4807465f0?w=600&q=80",
+    "answers": [
+      "Danubio",
+      "Támesis",
+      "Sena",
+      "Rin"
+    ],
+    "correctAnswer": 1,
+    "category": "geografia"
+  },
+  {
+    "id": 228,
+    "question": "¿Qué país tiene la mayor selva tropical del mundo?",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&q=80",
+    "answers": [
+      "Congo",
+      "Brasil",
+      "Perú",
+      "Indonesia"
+    ],
+    "correctAnswer": 1,
+    "category": "geografia"
+  },
+  {
+    "id": 229,
+    "question": "¿Cuántos husos horarios tiene Rusia?",
+    "image": "https://picsum.photos/seed/cultura-general-29/600/400",
+    "answers": [
+      "5",
+      "11",
+      "7",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "category": "geografia"
+  },
+  {
+    "id": 230,
+    "question": "¿Cuál es la capital de Turquía?",
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=600&q=80",
+    "answers": [
+      "Estambul",
+      "Ankara",
+      "Esmirna",
+      "Antalya"
+    ],
+    "correctAnswer": 1,
+    "category": "geografia"
+  },
+  {
+    "id": 231,
+    "question": "¿Quién es considerado el padre de la computación?",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "answers": [
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann",
+      "Steve Jobs"
+    ],
+    "correctAnswer": 0,
+    "category": "tecnologia"
+  },
+  {
+    "id": 232,
+    "question": "¿Qué significa 'HTML'?",
+    "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=600&q=80",
+    "answers": [
+      "High Tech Modern Language",
+      "HyperTransfer Markup Language",
+      "HyperText Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": 2,
+    "category": "tecnologia"
+  },
+  {
+    "id": 233,
+    "question": "¿Qué empresa creó el sistema operativo Android?",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",
+    "answers": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Samsung"
+    ],
+    "correctAnswer": 1,
+    "category": "tecnologia"
+  },
+  {
+    "id": 234,
+    "question": "¿Cuál fue el primer teléfono inteligente de la historia?",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80",
+    "answers": [
+      "Nokia 9000",
+      "iPhone 1",
+      "BlackBerry 850",
+      "IBM Simon"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 235,
+    "question": "¿Qué es 'Git'?",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "answers": [
+      "Un sistema de control de versiones",
+      "Un lenguaje de programación",
+      "Un navegador web",
+      "Un sistema operativo"
+    ],
+    "correctAnswer": 0,
+    "category": "tecnologia"
+  },
+  {
+    "id": 236,
+    "question": "¿En qué año se fundó Google?",
+    "image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+    "answers": [
+      "1996",
+      "1994",
+      "2000",
+      "1998"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 237,
+    "question": "¿Qué lenguaje de programación es conocido por su uso en inteligencia artificial?",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "answers": [
+      "Ruby",
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "correctAnswer": 2,
+    "category": "tecnologia"
+  },
+  {
+    "id": 238,
+    "question": "¿Qué componente de una computadora se considera su 'cerebro'?",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "answers": [
+      "RAM",
+      "GPU",
+      "CPU",
+      "Disco duro"
+    ],
+    "correctAnswer": 2,
+    "category": "tecnologia"
+  },
+  {
+    "id": 239,
+    "question": "¿Qué significa 'WWW'?",
+    "image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+    "answers": [
+      "World Wide Web",
+      "Web World Wide",
+      "World Wide Work",
+      "World Web Workshop"
+    ],
+    "correctAnswer": 0,
+    "category": "tecnologia"
+  },
+  {
+    "id": 240,
+    "question": "¿Qué red social fue la primera en alcanzar mil millones de usuarios?",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+    "answers": [
+      "YouTube",
+      "Instagram",
+      "Twitter",
+      "Facebook"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 241,
+    "question": "¿Cuál es el navegador web más utilizado del mundo?",
+    "image": "https://picsum.photos/seed/tecnologia-1/600/400",
+    "answers": [
+      "Firefox",
+      "Edge",
+      "Safari",
+      "Chrome"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 242,
+    "question": "¿Qué empresa desarrolló el asistente de voz 'Siri'?",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80",
+    "answers": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Microsoft"
+    ],
+    "correctAnswer": 1,
+    "category": "tecnologia"
+  },
+  {
+    "id": 243,
+    "question": "¿Qué lenguaje se utiliza principalmente para crear páginas web interactivas?",
+    "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=600&q=80",
+    "answers": [
+      "Java",
+      "JavaScript",
+      "C#",
+      "Python"
+    ],
+    "correctAnswer": 1,
+    "category": "tecnologia"
+  },
+  {
+    "id": 244,
+    "question": "¿Cuál es la capacidad máxima de un DVD de una sola capa?",
+    "image": "https://picsum.photos/seed/tecnologia-2/600/400",
+    "answers": [
+      "8.5 GB",
+      "4.7 GB",
+      "1.4 GB",
+      "700 MB"
+    ],
+    "correctAnswer": 1,
+    "category": "tecnologia"
+  },
+  {
+    "id": 245,
+    "question": "¿Qué empresa fundó Jeff Bezos?",
+    "image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+    "answers": [
+      "Microsoft",
+      "Google",
+      "Apple",
+      "Amazon"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 246,
+    "question": "¿Qué es el 'Internet de las Cosas' (IoT)?",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "answers": [
+      "Un tipo de red social",
+      "Un motor de búsqueda",
+      "Red de computadoras",
+      "Conexión de objetos cotidianos a internet"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 247,
+    "question": "¿Cuántos bits hay en un byte?",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "answers": [
+      "16",
+      "2",
+      "8",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "category": "tecnologia"
+  },
+  {
+    "id": 248,
+    "question": "¿Qué significa 'URL'?",
+    "image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+    "answers": [
+      "Universal Resource Locator",
+      "Unified Resource Language",
+      "Universal Reference Link",
+      "Uniform Resource Locator"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 249,
+    "question": "¿Qué sistema operativo es de código abierto?",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&q=80",
+    "answers": [
+      "macOS",
+      "iOS",
+      "Linux",
+      "Windows"
+    ],
+    "correctAnswer": 2,
+    "category": "tecnologia"
+  },
+  {
+    "id": 250,
+    "question": "¿Cuál fue la primera red social de internet?",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+    "answers": [
+      "SixDegrees",
+      "MySpace",
+      "Friendster",
+      "Hi5"
+    ],
+    "correctAnswer": 0,
+    "category": "tecnologia"
+  },
+  {
+    "id": 251,
+    "question": "¿Qué empresa fabrica los procesadores Ryzen?",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "answers": [
+      "NVIDIA",
+      "Qualcomm",
+      "Intel",
+      "AMD"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 252,
+    "question": "¿Qué significa 'AI' en inglés?",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "answers": [
+      "Automated Intelligence",
+      "Advanced Interface",
+      "Automated Input",
+      "Artificial Intelligence"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 253,
+    "question": "¿En qué año se lanzó el primer iPhone?",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80",
+    "answers": [
+      "2005",
+      "2007",
+      "2006",
+      "2008"
+    ],
+    "correctAnswer": 1,
+    "category": "tecnologia"
+  },
+  {
+    "id": 254,
+    "question": "¿Qué es un 'firewall'?",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=80",
+    "answers": [
+      "Un lenguaje de programación",
+      "Un sistema de seguridad de red",
+      "Un tipo de virus",
+      "Un navegador"
+    ],
+    "correctAnswer": 1,
+    "category": "tecnologia"
+  },
+  {
+    "id": 255,
+    "question": "¿Qué empresa es conocida por sus tarjetas gráficas GeForce?",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+    "answers": [
+      "AMD",
+      "NVIDIA",
+      "Intel",
+      "ASUS"
+    ],
+    "correctAnswer": 1,
+    "category": "tecnologia"
+  },
+  {
+    "id": 256,
+    "question": "¿Qué significa 'USB'?",
+    "image": "https://picsum.photos/seed/tecnologia-3/600/400",
+    "answers": [
+      "Universal Serial Bus",
+      "United Serial Bus",
+      "Universal Signal Bus",
+      "Universal System Board"
+    ],
+    "correctAnswer": 0,
+    "category": "tecnologia"
+  },
+  {
+    "id": 257,
+    "question": "¿Qué es la 'computación en la nube'?",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
+    "answers": [
+      "Una supercomputadora",
+      "Un tipo de procesador",
+      "Una red local",
+      "Almacenamiento en servidores remotos"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
+  },
+  {
+    "id": 258,
+    "question": "¿Qué formato de compresión de archivos es el más común en Windows?",
+    "image": "https://picsum.photos/seed/tecnologia-4/600/400",
+    "answers": [
+      ".zip",
+      ".rar",
+      ".gz",
+      ".tar"
+    ],
+    "correctAnswer": 0,
+    "category": "tecnologia"
+  },
+  {
+    "id": 259,
+    "question": "¿Qué empresa creó el lenguaje de programación Java?",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "answers": [
+      "Microsoft",
+      "Apple",
+      "Sun Microsystems",
+      "IBM"
+    ],
+    "correctAnswer": 2,
+    "category": "tecnologia"
+  },
+  {
+    "id": 260,
+    "question": "¿Cuál es la velocidad de la luz en el vacío (aproximadamente)?",
+    "image": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=600&q=80",
+    "answers": [
+      "1,000,000 km/s",
+      "500,000 km/s",
+      "150,000 km/s",
+      "300,000 km/s"
+    ],
+    "correctAnswer": 3,
+    "category": "tecnologia"
   }
 ]

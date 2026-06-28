@@ -24,7 +24,10 @@ export function checkAchievements() {
 
   // All categories complete
   const uniqueCategories = [...new Set(quizzesPlayed)];
-  const allCategories = ["cultura-general", "cine", "deportes", "historia"];
+  const allCategories = [
+    "cultura-general", "cine", "deportes", "historia",
+    "videojuegos", "musica", "geografia", "tecnologia",
+  ];
   const hasAllCategories = allCategories.every((cat) =>
     uniqueCategories.includes(cat)
   );
@@ -33,12 +36,24 @@ export function checkAchievements() {
   }
 
   // Flawless and finish per category
-  type Category = "cultura-general" | "cine" | "deportes" | "historia";
+  type Category =
+    | "cultura-general"
+    | "cine"
+    | "deportes"
+    | "historia"
+    | "videojuegos"
+    | "musica"
+    | "geografia"
+    | "tecnologia";
   const catMap: Record<Category, string[]> = {
     "cultura-general": ["cg-flawless-5", "cg-finished-10"],
     cine: ["cinema-flawless-5", "cinema-finished-10"],
     deportes: ["sports-flawless-5", "sports-finished-10"],
     historia: ["history-flawless-5", "history-finished-10"],
+    videojuegos: ["gaming-flawless-5", "gaming-finished-10"],
+    musica: ["music-flawless-5", "music-finished-10"],
+    geografia: ["geo-flawless-5", "geo-finished-10"],
+    tecnologia: ["tech-flawless-5", "tech-finished-10"],
   };
 
   const currentCat = currentCategory as Category;

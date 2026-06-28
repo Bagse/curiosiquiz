@@ -1,7 +1,7 @@
 export const achievementHints: Record<string, string> = {
   "first-quiz": "Completa tu primer quiz en cualquier categoría.",
   "without-context": "Falla TODAS las preguntas de un quiz. Sin excepción.",
-  "all-categories-complete": "Completa al menos un quiz en cada una de las 4 categorías.",
+  "all-categories-complete": "Completa al menos un quiz en cada una de las 8 categorías.",
   "cg-flawless-5": "Responde 5 preguntas seguidas de Cultura General sin fallar ninguna.",
   "cg-finished-10": "Termina un quiz completo de Cultura General (10 preguntas).",
   "cinema-flawless-5": "Responde 5 preguntas seguidas de Cine sin fallar ninguna.",
@@ -11,6 +11,14 @@ export const achievementHints: Record<string, string> = {
   "sports-finished-10": "Termina un quiz completo de Deportes (10 preguntas).",
   "history-flawless-5": "Responde 5 preguntas seguidas de Historia sin fallar ninguna.",
   "history-finished-10": "Termina un quiz completo de Historia (10 preguntas).",
+  "gaming-flawless-5": "Responde 5 preguntas seguidas de Videojuegos sin fallar ninguna.",
+  "gaming-finished-10": "Termina un quiz completo de Videojuegos (10 preguntas).",
+  "music-flawless-5": "Responde 5 preguntas seguidas de Música sin fallar ninguna.",
+  "music-finished-10": "Termina un quiz completo de Música (10 preguntas).",
+  "geo-flawless-5": "Responde 5 preguntas seguidas de Geografía sin fallar ninguna.",
+  "geo-finished-10": "Termina un quiz completo de Geografía (10 preguntas).",
+  "tech-flawless-5": "Responde 5 preguntas seguidas de Tecnología sin fallar ninguna.",
+  "tech-finished-10": "Termina un quiz completo de Tecnología (10 preguntas).",
   "comeback-king": "Falla todas las preguntas de un quiz, y luego complétalo sin errores.",
   "achievement-hunter": "Desbloquea 10 logros distintos para conseguir este.",
 };

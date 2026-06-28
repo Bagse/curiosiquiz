@@ -37,7 +37,10 @@ describe("checkAchievements", () => {
 
   test("desbloquea 'all-categories-complete' si se han jugado todas", () => {
     useGameProgressStore.setState({
-      quizzesPlayed: ["cine", "deportes", "historia", "cultura-general"],
+      quizzesPlayed: [
+        "cine", "deportes", "historia", "cultura-general",
+        "videojuegos", "musica", "geografia", "tecnologia",
+      ],
     });
 
     checkAchievements();

@@ -1,6 +1,7 @@
 import { useAchievementsStore } from "../store/achievements";
 import { achievementHints } from "../utils/achievementHints";
 import { useNavigate } from "react-router-dom";
+import AchievementIcon from "../components/AchievementIcons";
 
 export default function AchievementsPage() {
   const navigate = useNavigate();
@@ -144,13 +145,21 @@ function AchievementCard({
     >
       <div className={`p-5 flex flex-col items-center gap-4 ${locked ? "pointer-events-none" : ""}`}>
         <div className="relative">
-          <img
-            src={ach.image}
-            alt={ach.title}
-            className={`w-20 h-20 md:w-24 md:h-24 object-contain transition-all duration-500 ${
-              locked ? "blur-sm scale-95" : "group-hover:scale-110"
-            }`}
-          />
+          {ach.image ? (
+            <img
+              src={ach.image}
+              alt={ach.title}
+              className={`w-20 h-20 md:w-24 md:h-24 object-contain transition-all duration-500 ${
+                locked ? "blur-sm scale-95" : "group-hover:scale-110"
+              }`}
+            />
+          ) : (
+            <div className={`w-20 h-20 md:w-24 md:h-24 transition-all duration-500 ${
+              locked ? "blur-sm scale-95 opacity-50" : "group-hover:scale-110"
+            }`}>
+              <AchievementIcon id={ach.id} unlocked={!locked} />
+            </div>
+          )}
         </div>
 
         <div className={`text-center ${locked ? "blur-sm" : ""}`}>

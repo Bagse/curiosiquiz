@@ -4,8 +4,22 @@ import QuizPage from "./pages/QuizPage";
 import { Results } from "./components/Results";
 import { Footer } from "./components/Footer";
 import AchievementsPage from "./pages/AchievementsPage";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    const oldKeys = [
+      "achievements-storage",
+      "questions",
+      "categories-completed",
+    ];
+    oldKeys.forEach((key) => {
+      if (localStorage.getItem(key) !== null) {
+        localStorage.removeItem(key);
+      }
+    });
+  }, []);
+
   return (
     <>
       <Routes>

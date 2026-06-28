@@ -1,6 +1,7 @@
 import * as Dialog from "@radix-ui/react-dialog";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import AchievementIcon from "./AchievementIcons";
 
 interface Achievement {
   id: string;
@@ -79,11 +80,17 @@ export default function AchievementModal({
               <div className="relative mb-5">
                 <div className="absolute inset-0 bg-[#00ddaa]/20 rounded-full blur-2xl scale-150 animate-pulse" />
                 <div className="relative w-28 h-28 sm:w-32 sm:h-32 rounded-full border-2 border-[#00ddaa]/30 bg-[#1a1a2e] flex items-center justify-center p-2 shadow-lg shadow-[#00ddaa]/10">
-                  <img
-                    src={current.image}
-                    alt={current.title}
-                    className="w-full h-full object-contain scale-100 animate-fade-in-up"
-                  />
+                  {current.image ? (
+                    <img
+                      src={current.image}
+                      alt={current.title}
+                      className="w-full h-full object-contain scale-100 animate-fade-in-up"
+                    />
+                  ) : (
+                    <div className="w-full h-full p-3 animate-fade-in-up">
+                      <AchievementIcon id={current.id} unlocked />
+                    </div>
+                  )}
                 </div>
               </div>
 
